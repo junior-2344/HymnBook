@@ -1,0 +1,29 @@
+1
+To God be the glory! Great things 
+He hath done!
+So loved He the world that He gave us His Son;
+Who yielded His life an atonement for sin,
+And opened the Life gate that all may go in.
+
+CHORUS: Praise the Lord! Praise the Lord!
+        Let the earth hear His voice!
+        Praise the Lord! Praise the Lord!
+        Let the people rejoice!
+        O come to the Father, through Jesus the Son:
+        And give Him the glory! Great things 
+        He hath done!
+
+2
+O perfect redemption, the purchase of blood!
+To every believer the promise of God;
+The vilest offender who truly believes,
+That moment from Jesus a pardon receives.
+
+3
+Great things He hath taught us, great things
+He hath done!
+And great our rejoicing through 
+Jesus the Son;
+But purer, and higher, and greater will be
+Our wonder, our rapture, when 
+Jesus we see.

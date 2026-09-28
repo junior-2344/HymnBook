@@ -1,0 +1,35 @@
+1
+Jesus, my Saviour, to Bethlehem came,
+Born in a manger to sorrow and shame;
+O it was wonderful-blest be His Name!
+Seeking for me, for me!
+Seeking for me! Seeking for me!
+O it was wonderful-blest be His Name!
+Seeking for me, for me!
+
+2
+Jesus, my Saviour, on Calvary’s tree,
+Paid the great debt, and my soul He set free;
+O it was wonderful-how could it be?
+Dying for me, for me!
+Dying for me! Dying for me!
+O it was wonderful-how could it be?
+Dying for me, for me!
+
+3
+Jesus, my Saviour, the same as of old,
+While I was wand’ring afar from the fold,
+Gently and long did He plead with my soul,
+Calling for me, for me!
+Calling for me! Calling for me!
+Gently and long did He plead with my soul,
+Calling for me, for me!
+
+4
+Jesus, my Saviour, shall come from on high
+Sweet is the promise as weary years fly;
+O, I shall see Him descend from the sky!
+Coming for me, for me!
+Coming for me! Coming for me!
+O, I shall see Him descend from the sky,
+Coming for me, for me!
