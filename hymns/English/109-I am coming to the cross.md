@@ -1,0 +1,28 @@
+I am coming to the cross
+109   Coming to the Cross___S477
+
+1 I am coming to the cross,
+I am poor, and weak, and blind;
+I am counting all but dross;
+I shall full salvation find.
+Chorus
+I am trusting, Lord, in Thee,
+Blessed Lamb of Calvary;
+Humbly at Thy cross I bow:
+Jesus saves me, saves me now.
+2 Long my heart has sighed for Thee,
+Long has evil reigned within;
+Jesus sweetly speaks to me,
+“I will cleanse you from all sin.”
+3 Here I give my all to Thee,
+Friends, and time, and earthly store;
+Soul and body, Thine to be
+Wholly Thine for evermore.
+4 In the promises I trust,
+Now I know the blood applied;
+I am prostrate in the dust,
+I with Christ am crucified.
+5 Jesus comes! He fills my soul!
+Perfected in Him I am;
+I am every whit made whole;
+Glory, glory to the Lamb!

@@ -1,0 +1,22 @@
+MLUNGU anapatsa moyo
+
+MLUNGU anapatsa moyo,
+Moyo, moyo wosatha;
+Mlungu anapatsa moyo,
+Anapatsa moyo wosatha.
+Anthu anakana moyo,
+Moyo, moyo wosatha;
+Anthu anakana moyo,
+Anakana moyo wosatha.
+Yesu apatsanso moyo,
+Moyo, moyo wosatha;
+Yesu apatsanso moyo,
+Apatsanso moyo wosatha.
+Kodi mwalandira moyo,
+Moyo, moyo wosatha?
+Kodi mwalandira moyo,
+Mwalandira moyo wosatha?
+Inde, ndalandira moyo,
+Moyo, moyo wosatha;
+Inde, ndalandira moyo,
+Ndalandira moyo wosatha.
