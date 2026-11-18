@@ -35,9 +35,9 @@ func normalizeLanguageName(language string) string {
 		"chichewa":   "Chichewa",
 		"chi":        "Chichewa",
 		"chewa":      "Chichewa",
-		"chitumbuka": "Chitumbuka",
-		"tumbuka":    "Chitumbuka",
-		"ct":         "Chitumbuka",
+		"chitumbuka": "tumbuka",
+		"tumbuka":    "tumbuka",
+		"ct":         "tumbuka",
 	}
 
 	lower := strings.ToLower(normalized)
@@ -68,7 +68,7 @@ func findLanguageDirectory(language string) (string, bool) {
 }
 
 func discoverLanguages(baseDir string) []string {
-	preferred := []string{"English", "Chichewa", "Chitumbuka"}
+	preferred := []string{"English", "Chichewa", "tumbuka"}
 	found := map[string]bool{}
 	results := make([]string, 0, len(preferred))
 

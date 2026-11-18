@@ -65,6 +65,35 @@ func TestNormalizeLanguageName(t *testing.T) {
 	if got := normalizeLanguageName("Chichewa"); got != "Chichewa" {
 		t.Fatalf("expected Chichewa to stay Chichewa, got %q", got)
 	}
+	for _, alias := range []string{"Chitumbuka", "tumbuka", "ct"} {
+		if got := normalizeLanguageName(alias); got != "tumbuka" {
+			t.Errorf("expected %q to normalize to tumbuka, got %q", alias, got)
+		}
+	}
+}
+
+func TestChitumbukaLoadsFromTumbukaDirectory(t *testing.T) {
+	tempDir := t.TempDir()
+	tumbukaDir := filepath.Join(tempDir, "hymns", "tumbuka")
+	if err := os.MkdirAll(tumbukaDir, 0o755); err != nil {
+		t.Fatal(err)
+	}
+	if err := os.WriteFile(filepath.Join(tumbukaDir, "1-Yesu ndi Mponoski.md"), []byte("Lyrics"), 0o644); err != nil {
+		t.Fatal(err)
+	}
+
+	languages := discoverLanguages(tempDir)
+	if len(languages) != 1 || languages[0] != "Chitumbuka" {
+		t.Fatalf("expected the tumbuka directory to be listed as Chitumbuka, got %#v", languages)
+	}
+
+	hymns, err := loadHymnsForLanguage(tempDir, languages[0])
+	if err != nil {
+		t.Fatalf("expected Chitumbuka hymns to load from tumbuka, got %v", err)
+	}
+	if len(hymns) != 1 || hymns[0].Title != "Yesu ndi Mponoski" {
+		t.Fatalf("unexpected hymns loaded from tumbuka: %#v", hymns)
+	}
 }
 
 func TestStripDuplicateTitleAndFormatLyricsForMarkdown(t *testing.T) {
