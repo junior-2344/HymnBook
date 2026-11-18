@@ -1,4 +1,4 @@
-Ka Mwaruta Kwa Yesu?
+Ka Mwaruta Kwa Yesu
      Rev. E.A. Hoffman
      SS&S 379
 
