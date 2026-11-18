@@ -1,0 +1,26 @@
+Work, for the night is coming!
+165    Diligence (Altrincham)___
+
+1 Work, for the night is coming!
+Work through the morning hours;
+Work while the dew is sparkling;
+Work 'mid springing flowers;
+Work, while the day grows brighter;
+Work in the glowing sun;
+Work, for the night is coming,
+When man's work is done.
+2 Work, for the night is coming!
+Work through the sunny noon;
+Fill brightest hours with labour;
+Rest comes sure and soon.
+Give every flying minute
+Something to keep in store;
+Work, for the night is coming,
+When man works no more.
+3 Work, for the night is coming!
+Under the sunset skies,
+While the bright tints are glowing,
+Work, for daylight flies.
+Fadeth to shine no more;
+Work, while the night is darkening,
+When man's work is o'er.

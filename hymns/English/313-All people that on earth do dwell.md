@@ -1,0 +1,21 @@
+All people that on earth do dwell
+313   Old 100th___C799, S9, F20
+
+1 All people that on earth do dwell,
+Sing to the Lord with cheerful voice,
+Him serve with mirth, His praise
+forth tell,
+Come ye before Him and rejoice.
+2 The Lord, ye know, is God indeed;
+Without our aid He did us make;
+We are His folk, He doth us feed..
+And for His sheep He doth us take.
+3 O enter then His gates with praise,
+Approach with joy His courts unto;
+Praise, laud, and bless His name
+always,
+For it is seemly so to do.
+4 For why? The Lord our God is good;
+His mercy is for ever sure;
+His truth at all times firmly stood,
+And shall from age to age endure.

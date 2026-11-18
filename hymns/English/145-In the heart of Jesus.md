@@ -1,0 +1,32 @@
+In the heart of Jesus
+145   St. Mary Magdalene___C525
+
+1 In the heart of Jesus
+There is love for you,
+Love most pure and tender,
+Love most deep and true
+Why should you be lonely,
+Why for friendship sigh,
+When the heart of Jesus,
+Has full supply?
+2 In the mind of Jesus
+There is thought for you,
+Warm as summer sunshine,
+Sweet as morning dew;
+Why should you be fearful,
+Why take anxious thought,
+Since the mind of Jesus
+Cares for those He bought?
+3 In the field of Jesus
+There is work for you;
+Such as even angels
+Might rejoice to do:
+Why stand idly sighing
+For some life-work grand,
+While the field of Jesus
+Seeks your reaping hand?
+4 In the home of Jesus
+There’s a place for you;
+Glorious, bright and joyous, Calm and peaceful too:
+Why then, like a wand’rer, Roam with weary pace,
+If the home of Jesus Holds for you a place?

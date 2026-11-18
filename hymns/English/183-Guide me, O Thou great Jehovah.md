@@ -1,0 +1,21 @@
+Guide me, O Thou great Jehovah
+183      Cwm Rhondda___F410 Dismissal___C678, S287, F275
+
+1 Guide me, O Thou great Jehovah,
+Pilgrim through this barren land;
+I am weak, but Thou art mighty;
+Hold me with Thy powerful hand;
+Bread of heaven, Bread of heaven,
+Feed me till I want no more.
+2 Open now the crystal fountain,
+Whence the healing stream doth flow;
+Let the fire and cloudy pillar
+Lead me all my journey through:
+Strong Deliverer, strong Deliverer,
+Be thou still my strength and shield.
+3 When I tread the verge of Jordan,
+Bid my anxious fears subside:
+Death of death, and hell's destruction,
+Land me safe on Canaan's side;
+Songs of praises, songs of praises
+I will ever give to Thee.

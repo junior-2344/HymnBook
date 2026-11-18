@@ -1,0 +1,1285 @@
+ .../Chichewa/1-NDINU wakuyera! Wamphamvu zonse.md  |  22 [32m+++[m
+ hymns/Chichewa/10-TSOPANO linoli.md                |  18 [32m+++[m
+ hymns/Chichewa/100-MUBWERE Mzimu Wakuyera.md       |  18 [32m+++[m
+ .../101-MZIMU Woyera, mudze mumitima mwathumo.md   |  12 [32m++[m
+ .../Chichewa/102-MZIMU Woyera, mudzetu kwa ine.md  |  26 [32m++++[m
+ .../103-MPUME pa inetu, Mpweya wa Mulungu.md       |  18 [32m+++[m
+ hymns/Chichewa/104-MUBWERE Mzimu Inu.md            |  25 [32m++++[m
+ hymns/Chichewa/105-IDZANI, Mzimu Inu.md            |  26 [32m++++[m
+ hymns/Chichewa/106-MZIMU Woyera, mudzetu.md        |  21 [32m+++[m
+ .../107-MUBWERE kuno Mzimu \342\200\231Nu.md"      |  20 [32m+++[m
+ hymns/Chichewa/108-MBUYE wondipulumutsa.md         |  26 [32m++++[m
+ .../109-MUTHIRE, Yesu, m\342\200\231mtimanga.md"   |  22 [32m+++[m
+ hymns/Chichewa/11-NDI mitima yokondwera.md         |  20 [32m+++[m
+ hymns/Chichewa/110-MZIMU ndi mtogoleri.md          |  26 [32m++++[m
+ hymns/Chichewa/111-YAKOBO mwanatu wachinyengoyo.md |  22 [32m+++[m
+ hymns/Chichewa/112-ELISA mneneri.md                |  23 [32m++++[m
+ hymns/Chichewa/113-KALERO anthu onse.md            |  38 [32m++++++[m
+ hymns/Chichewa/114-NDIPO Eliya anati kwa Elisa.md  |  14 [32m++[m
+ hymns/Chichewa/115-NTHAWI ija ya Sauli.md          |  22 [32m+++[m
+ hymns/Chichewa/116-MBUYE, Mawu anu.md              |  26 [32m++++[m
+ .../117-CHOLIMBITSA mtima ndi chonditsogolera.md   |  34 [32m+++++[m
+ hymns/Chichewa/118-PANALI munthu amene.md          |  20 [32m+++[m
+ hymns/Chichewa/119-M'BUKU la moyotu Mbuye.md       |  18 [32m+++[m
+ hymns/Chichewa/12-NDITAMATU Ambuyangayu.md         |  26 [32m++++[m
+ .../Chichewa/120-MUNDINYEMERE \342\200\231ne.md"   |  24 [32m++++[m
+ .../Chichewa/121-MULUNGU, anthu \342\200\231fe.md" |  26 [32m++++[m
+ hymns/Chichewa/122-KUNALI munthu wa Mlungu.md      |  32 [32m+++++[m
+ hymns/Chichewa/123-MULI ndi ludzu, idzani.md       |  30 [32m+++++[m
+ hymns/Chichewa/124-PAMTANDAPO, pamtanda.md         |  30 [32m+++++[m
+ hymns/Chichewa/125-ODALA ali iwo.md                |  28 [32m++++[m
+ hymns/Chichewa/126-DAVIDE kubusa kuja.md           |  22 [32m+++[m
+ hymns/Chichewa/127-POLUMIDWA ndi njokazo.md        |  22 [32m+++[m
+ .../Chichewa/128-ANTHU m\342\200\231maiko onse.md" |  34 [32m+++++[m
+ hymns/Chichewa/129-WODALA ndiye munthuyo.md        |  32 [32m+++++[m
+ hymns/Chichewa/13-PAPHIRI ndi padambo.md           |  38 [32m++++++[m
+ hymns/Chichewa/130-PHWANDO la Belisazara.md        |  32 [32m+++++[m
+ hymns/Chichewa/131-MAWU a Mulungu awa.md           |  14 [32m++[m
+ .../132-MVERA mtima wanga \342\200\231we.md"       |  26 [32m++++[m
+ hymns/Chichewa/133-NSEMBE yake ya Kaini.md         |  34 [32m+++++[m
+ hymns/Chichewa/134-INU ansembe ngakhale mufunsa.md |  23 [32m++++[m
+ hymns/Chichewa/135-USANABADWE, Yeremiya.md         |  18 [32m+++[m
+ hymns/Chichewa/136-MKAZI wa ku Samariya.md         |  22 [32m+++[m
+ hymns/Chichewa/137-UTHENGA wa Ambuye.md            |  28 [32m++++[m
+ .../138-SANGALATSA akusowa, masiku alikutha.md     |  18 [32m+++[m
+ hymns/Chichewa/139-MLUNGU anapatsa moyo.md         |  22 [32m+++[m
+ hymns/Chichewa/14-MTIMA wanga uyamike.md           |  22 [32m+++[m
+ .../140-NDINAMIRA m'machimo, wosaonekanso.md       |  26 [32m++++[m
+ hymns/Chichewa/141-TAONANI pamtandapo.md           |  18 [32m+++[m
+ .../Chichewa/142-MULUNGU a\305\265akonda anthu.md" |  26 [32m++++[m
+ hymns/Chichewa/143-KONZA mtima iwe mbale.md        |  18 [32m+++[m
+ hymns/Chichewa/144-AMENE adzavomereza ndithu.md    |  14 [32m++[m
+ hymns/Chichewa/145-MBIRI yakale lomwe.md           |  38 [32m++++++[m
+ hymns/Chichewa/146-KODI ulikulemedwa.md            |  26 [32m++++[m
+ "hymns/Chichewa/147-MUSA\305\264ALOLE mawuwo.md"   |  22 [32m+++[m
+ hymns/Chichewa/148-PAKUPEMPHA ife pano.md          |  22 [32m+++[m
+ hymns/Chichewa/149-RUTE, Rute anaumilira.md        |  25 [32m++++[m
+ hymns/Chichewa/15-YEHOVA ndiye Mbusa wanga.md      |  30 [32m+++++[m
+ hymns/Chichewa/150-MIPINGO iyo idzatu.md           |  30 [32m+++++[m
+ .../Chichewa/151-UKAPENYA kwa Yesu uliko moyoko.md |  24 [32m++++[m
+ hymns/Chichewa/152-AMBUYE wathu Yesu.md            |  42 [32m++++++[m
+ .../Chichewa/153-NDAKUMANA ndi bwenzi lokomalo.md  |  16 [32m+++[m
+ hymns/Chichewa/154-SING'ANGA 'mkulu ndiye Yesu.md  |  22 [32m+++[m
+ hymns/Chichewa/155-UTHENGA wa Mulungu.md           |  24 [32m++++[m
+ hymns/Chichewa/156-OKOMA ndiwo mawu.md             |  30 [32m+++++[m
+ hymns/Chichewa/157-INU nonse ovutidwa.md           |  21 [32m+++[m
+ hymns/Chichewa/158-WOCHIMWA iwe, bweratu.md        |  22 [32m+++[m
+ hymns/Chichewa/159-YESU ndi wokonda.md             |  30 [32m+++++[m
+ hymns/Chichewa/16-MTIMA wanga lemekeza.md          |  26 [32m++++[m
+ hymns/Chichewa/160-MADALITSO ngati mvumbi.md       |  14 [32m++[m
+ hymns/Chichewa/161-LERO lino mbale wanga.md        |  26 [32m++++[m
+ hymns/Chichewa/162-PENYETSETSA Yesu.md             |  33 [32m+++++[m
+ hymns/Chichewa/163-MALO anachepa.md                |  21 [32m+++[m
+ hymns/Chichewa/164-WANENA ndi Yesu.md              |  20 [32m+++[m
+ ...-ATATE,\342\200\231nu, atate \342\200\231nu.md" |  17 [32m+++[m
+ hymns/Chichewa/166-NDICHITENJI kukapeza.md         |  18 [32m+++[m
+ hymns/Chichewa/167-KODI mwalandira Yesu-.md        |  22 [32m+++[m
+ hymns/Chichewa/168-NDINGANENE malilime.md          |  18 [32m+++[m
+ .../Chichewa/169-\342\200\231MVANI liu lomwe.md"   |  22 [32m+++[m
+ hymns/Chichewa/17-MULUNGU ndiye Mbusa wanga.md     |  25 [32m++++[m
+ .../170-YESU ponong\342\200\231oneza, idzanitu.md" |  18 [32m+++[m
+ hymns/Chichewa/171-IWE tiye, iwe tiye.md           |  29 [32m++++[m
+ hymns/Chichewa/172-TADZA kukudyaku.md              |  26 [32m++++[m
+ hymns/Chichewa/173-MWAMVA Mawu a Mulungu.md        |  22 [32m+++[m
+ hymns/Chichewa/174-YESU wathu Mbuyeyo.md           |  22 [32m+++[m
+ hymns/Chichewa/175-A! MBUSA wathu amvatu.md        |  21 [32m+++[m
+ hymns/Chichewa/176-AITANA, aitana dziko lonse.md   |  21 [32m+++[m
+ ...305\264ALIRA Yesu m\342\200\231dziko linoli.md" |  18 [32m+++[m
+ .../178-ZAMBIRI zogona m\342\200\231kholamo.md"    |  32 [32m+++++[m
+ hymns/Chichewa/179-TUMPHATUMPHA moyo wanga.md      |  28 [32m++++[m
+ hymns/Chichewa/18-POKHALA Inu.md                   |  17 [32m+++[m
+ .../180-MALO alimo m\342\200\231nyumba ya Yesu.md" |  20 [32m+++[m
+ hymns/Chichewa/181-PANALITU wakudwala.md           |  21 [32m+++[m
+ hymns/Chichewa/182-YESU watidzera, watidzera.md    |  23 [32m++++[m
+ hymns/Chichewa/183-MUDZE kwa Yesu, musachedwe.md   |  18 [32m+++[m
+ .../184-LEKANI kubvutika ndi zinthu za padziko.md  |  19 [32m+++[m
+ hymns/Chichewa/185-NDINE Mbusayo wabwino.md        |  27 [32m++++[m
+ hymns/Chichewa/186-MVERANI mbiri yozizwitsa.md     |  20 [32m+++[m
+ hymns/Chichewa/187-UFUNA kuwomboledwa kodi-.md     |  22 [32m+++[m
+ hymns/Chichewa/188-MPULUMUTSI Wokondedwa.md        |  22 [32m+++[m
+ hymns/Chichewa/189-MLENDO ali pakhomo.md           |  32 [32m+++++[m
+ hymns/Chichewa/19-MULUNGU akhale nawo.md           |  11 [32m++[m
+ hymns/Chichewa/190-CHITETEZO chachikulu.md         |  32 [32m+++++[m
+ hymns/Chichewa/191-AMBIRI tikondwera mwa Yesu.md   |  22 [32m+++[m
+ hymns/Chichewa/192-ZAKEYU mkulu wa misonkho.md     |  14 [32m++[m
+ hymns/Chichewa/193-THANTHWE long'ambikatu.md       |  28 [32m++++[m
+ .../194-AMBUYE\342\200\231naitan\342\200\231ne.md" |  26 [32m++++[m
+ hymns/Chichewa/195-YESU wondikondadi.md            |  34 [32m+++++[m
+ .../196-NDI inetu sinditha\342\200\231yi.md"       |  34 [32m+++++[m
+ "hymns/Chichewa/197-NDIKHULUPIRA\342\200\231Nu.md" |  30 [32m+++++[m
+ hymns/Chichewa/198-CHITSIMECHO cha mwaziwo.md      |  22 [32m+++[m
+ hymns/Chichewa/199-NDINASOKERA kutali.md           |  19 [32m+++[m
+ hymns/Chichewa/2-YEHOVA Mthandizi.md               |  18 [32m+++[m
+ hymns/Chichewa/20-CHIKONDI cha Mulungu wathu.md    |  14 [32m++[m
+ hymns/Chichewa/200-YESU mundimve, ndikuliratu.md   |  22 [32m+++[m
+ hymns/Chichewa/201-NDILINKUDZA kwa Ambuye.md       |  26 [32m++++[m
+ hymns/Chichewa/202-NDIKHULUPIRIRA, Yesu.md         |  26 [32m++++[m
+ hymns/Chichewa/203-NTHAWI yathadi bwerera mbale.md |  16 [32m+++[m
+ .../Chichewa/204-NDASIYA zonse ndi Yesu kalelo.md  |  25 [32m++++[m
+ hymns/Chichewa/205-KWA Inu Yesu ndilira.md         |  26 [32m++++[m
+ hymns/Chichewa/206-YESU, mulikundipempha.md        |  29 [32m++++[m
+ hymns/Chichewa/207-AMBUYE ndamvatu Mawu anu.md     |  15 [32m+++[m
+ .../Chichewa/208-CHITHA n'chiyani kund'yeretsa-.md |  22 [32m+++[m
+ hymns/Chichewa/209-M'NDILANDIRE ine Mbuye.md       |  21 [32m+++[m
+ .../21-KUZANI Mlungu m\342\200\231Mwambamo.md"     |  30 [32m+++++[m
+ hymns/Chichewa/210-PEREKANI mtima wanu.md          |  20 [32m+++[m
+ hymns/Chichewa/211-TIDZALAKALAKA kuwonana naye.md  |  18 [32m+++[m
+ hymns/Chichewa/212-NDI MISOZI, ndi chisoni.md      |  20 [32m+++[m
+ hymns/Chichewa/213-INE ndili ndi manyazi.md        |  22 [32m+++[m
+ hymns/Chichewa/214-KUNALI munthu ku Yeriko.md      |  37 [32m++++++[m
+ hymns/Chichewa/215-TATE ndili mwana wanu.md        |  22 [32m+++[m
+ hymns/Chichewa/216-NDISAUKA, ndinachimwa.md        |  26 [32m++++[m
+ .../Chichewa/217-CHIPULUMUTSO chathu chayandika.md |  21 [32m+++[m
+ hymns/Chichewa/218-NDIPEREKA zanga zonse.md        |  22 [32m+++[m
+ hymns/Chichewa/219-YESU Mbuyetu, mwafera.md        |  14 [32m++[m
+ hymns/Chichewa/22-MU ZONSE abale yamikani.md       |  18 [32m+++[m
+ .../Chichewa/220-MULUNGU mundichitire chifundo.md  |  18 [32m+++[m
+ hymns/Chichewa/221-A! CHIKONDI chopambana.md       |  26 [32m++++[m
+ .../222-NDILIKUMVA m\342\200\231mtima mwanga.md"   |  30 [32m+++++[m
+ hymns/Chichewa/223-ATI Yesu Mbuyeyo.md             |  26 [32m++++[m
+ .../224-LINDIKOMERA dzina la Ambuye Yesu wanga.md  |  18 [32m+++[m
+ hymns/Chichewa/225-NDIDZAIMBA za Mulungu.md        |  22 [32m+++[m
+ hymns/Chichewa/226-BWENZI ndinamkomanayo.md        |  34 [32m+++++[m
+ hymns/Chichewa/227-NDIM'KONDE Kristuyo.md          |  33 [32m+++++[m
+ hymns/Chichewa/228-MWAKHULUPIRIRADI.md             |  30 [32m+++++[m
+ hymns/Chichewa/229-POYAMBAPO ndakondwadi.md        |  20 [32m+++[m
+ hymns/Chichewa/23-TIIMBE nyimbo zotamanda.md       |  26 [32m++++[m
+ hymns/Chichewa/230-AMBUYANGA Yesu.md               |  27 [32m++++[m
+ .../Chichewa/231-AMBUYE, m\342\200\231imfamo.md"   |  33 [32m+++++[m
+ hymns/Chichewa/232-WAFUNAFUNA ine.md               |  29 [32m++++[m
+ hymns/Chichewa/233-AMBUYE Mulungu.md               |  26 [32m++++[m
+ hymns/Chichewa/234-IMFA ndi mfumu ya mdimawo.md    |  30 [32m+++++[m
+ hymns/Chichewa/235-ADALITSIKA munthuyo.md          |  18 [32m+++[m
+ hymns/Chichewa/236-NDIDZIWITSITSA.md               |  19 [32m+++[m
+ hymns/Chichewa/237-SINDINANYENGEDWA konse.md       |  40 [32m++++++[m
+ hymns/Chichewa/238-MULUNGU wanga.md                |  24 [32m++++[m
+ hymns/Chichewa/239-TILI ndi mtendere.md            |  49 [32m+++++++[m
+ hymns/Chichewa/24-TITAME Mlungu Wakumwamba.md      |  26 [32m++++[m
+ hymns/Chichewa/240-YESU ndiye Mbuye wanga.md       |  22 [32m+++[m
+ ...41-MTENDERE uli m\342\200\231mtima mwathumu.md" |  12 [32m++[m
+ hymns/Chichewa/242-NDIIMBA mumtima mokondwa.md     |  22 [32m+++[m
+ hymns/Chichewa/243-KONDWANI nonsenu.md             |  26 [32m++++[m
+ hymns/Chichewa/244-TIMVE za anamwali khumi.md      |  22 [32m+++[m
+ hymns/Chichewa/245-KHALANI duu! Ambuye adzatu.md   |  26 [32m++++[m
+ hymns/Chichewa/246-NAMONDWE akawombabe.md          |  22 [32m+++[m
+ hymns/Chichewa/247-MULUNGU anditsogolera.md        |  18 [32m+++[m
+ .../248-M\342\200\231MENE ine ndisauka.md"         |  18 [32m+++[m
+ hymns/Chichewa/249-MBUYANGA Yesu, mundigwire.md    |  19 [32m+++[m
+ hymns/Chichewa/25-ANGELO amayimba.md               |  19 [32m+++[m
+ hymns/Chichewa/250-MBUYANGA Yesu.md                |  19 [32m+++[m
+ hymns/Chichewa/251-NDIFUNA Yesuyo.md               |  26 [32m++++[m
+ hymns/Chichewa/252-MTIMA wa Mbuyako.md             |  34 [32m+++++[m
+ .../253-YESU ndinutu wanga m'njira zonse.md        |  18 [32m+++[m
+ hymns/Chichewa/254-PAMENE ndisawuka.md             |  17 [32m+++[m
+ hymns/Chichewa/255-KHALA chete mtima wanga.md      |  16 [32m+++[m
+ hymns/Chichewa/256-NGATI mtima sumakonda.md        |  18 [32m+++[m
+ .../Chichewa/257-NJIRA yanga sindizi\305\265a.md"  |  18 [32m+++[m
+ hymns/Chichewa/258-MWA ine, moyo wanga ndi Yesu.md |  18 [32m+++[m
+ hymns/Chichewa/259-CHISOMO chodabwitsacho.md       |  18 [32m+++[m
+ hymns/Chichewa/26-NDIKULEMEKEZA.md                 |  23 [32m++++[m
+ hymns/Chichewa/260-ODALA ndi onsewo.md             |  18 [32m+++[m
+ hymns/Chichewa/261-M'NDIYANDIKITSE nanu Yesu.md    |  22 [32m+++[m
+ ...\234KHALA mwa Ine,\342\200\235 Yesu anatero.md" |  22 [32m+++[m
+ hymns/Chichewa/263-AMBUYE mundisunge.md            |  26 [32m++++[m
+ ...ALATU woyera, pempheratu m\342\200\231tseri.md" |  19 [32m+++[m
+ ...265-MUDZAZE Yesu mtima wanga ndi chikondicho.md |  10 [32m++[m
+ hymns/Chichewa/266-MBUYE ndamva mwawazira.md       |  28 [32m++++[m
+ hymns/Chichewa/267-AMBUYE, thandizenitu.md         |  18 [32m+++[m
+ .../Chichewa/268-POKHALA mtendere mu mtimangamu.md |  19 [32m+++[m
+ hymns/Chichewa/269-NDILIRA ine kukayenda.md        |  26 [32m++++[m
+ hymns/Chichewa/27-LEMEKEZANI Yehova.md             |  18 [32m+++[m
+ hymns/Chichewa/270-NDILIRA mtima wotamanda.md      |  22 [32m+++[m
+ hymns/Chichewa/271-Zoipa zangazi.md                |  14 [32m++[m
+ hymns/Chichewa/272-AMBUYE, ndifuna nditsukenitu.md |  20 [32m+++[m
+ hymns/Chichewa/273-USAFUNE chuma chokha.md         |  26 [32m++++[m
+ hymns/Chichewa/274-YESU and'itana.md               |  26 [32m++++[m
+ hymns/Chichewa/275-NTHAWI yathu yafikatu.md        |  18 [32m+++[m
+ hymns/Chichewa/276-MKRISTU, ulimbike.md            |  22 [32m+++[m
+ hymns/Chichewa/277-GWIRA zintchito zako.md         |  26 [32m++++[m
+ "hymns/Chichewa/278-TITHA\305\264IRENJI ifetu.md"  |  18 [32m+++[m
+ hymns/Chichewa/279-MBUYE, nditsate bwanjiko-.md    |  22 [32m+++[m
+ hymns/Chichewa/28-AMBUYE ngwodalitsika.md          |  23 [32m++++[m
+ hymns/Chichewa/280-YESU, afuna iwe unke kwawoko.md |  18 [32m+++[m
+ .../281-MBUYE, mwatiuza \342\200\231fe.md"         |  26 [32m++++[m
+ hymns/Chichewa/282-INU muli mehere.md              |  27 [32m++++[m
+ hymns/Chichewa/283-AMBUYE m'chipululu.md           |  36 [32m+++++[m
+ hymns/Chichewa/284-MAVUTO ndi ambiri.md            |  24 [32m++++[m
+ hymns/Chichewa/285-DZIKO lino lapansi.md           |  28 [32m++++[m
+ hymns/Chichewa/286-ZOVUTA zoopsya ndi zosaukazi.md |  19 [32m+++[m
+ hymns/Chichewa/287-POKONDWA ndi poona vuto.md      |  26 [32m++++[m
+ .../288-HAYA! \342\200\231nzanga taonani.md"       |  23 [32m++++[m
+ .../289-ANATILEMBA Yesu tikagwire nkhondo yake.md  |  23 [32m++++[m
+ hymns/Chichewa/29-CHIKONDI cha.md                  |  19 [32m+++[m
+ hymns/Chichewa/290-NAMONDWE wawuka.md              |  24 [32m++++[m
+ .../291-ULENDO wachikhrisitu ngosawutsa ndithu.md  |  24 [32m++++[m
+ hymns/Chichewa/292-NDIPULUMUTSENI Mbuye.md         |  17 [32m+++[m
+ hymns/Chichewa/293-LIMBA mtima mbale wanga.md      |  38 [32m++++++[m
+ hymns/Chichewa/294-POYESEDWA ine.md                |  33 [32m+++++[m
+ hymns/Chichewa/295-AMBUYE wa Kumwamba.md           |  25 [32m++++[m
+ hymns/Chichewa/296-TIYENI Akhristu.md              |  45 [32m+++++++[m
+ .../297-POKUMANA m'mayesero a dziko lino.md        |  20 [32m+++[m
+ .../298-IFE tazingidwa ndi zinthu zoopsa.md        |  18 [32m+++[m
+ hymns/Chichewa/299-TIYENI, Akristu inu.md          |  26 [32m++++[m
+ hymns/Chichewa/3-TIMYAMIKIRE Mlunguyo.md           |   6 [32m+[m
+ hymns/Chichewa/30-YEHOVA, Mbusa wangadi.md         |  30 [32m+++++[m
+ hymns/Chichewa/300-AKRISTU limbikani.md            |  26 [32m++++[m
+ hymns/Chichewa/301-MBUYE, ndapangana.md            |  41 [32m++++++[m
+ hymns/Chichewa/302-NDIDZE pafupi pa.md             |  42 [32m++++++[m
+ .../Chichewa/303-MEMA nkhondoyo, wadza mdaniyo.md  |  18 [32m+++[m
+ hymns/Chichewa/304-POZUNZIDWA inu ponseponse.md    |  17 [32m+++[m
+ hymns/Chichewa/305-NDALIMVA dziko la m'talimo.md   |  21 [32m+++[m
+ hymns/Chichewa/306-YAMBA ulendo mnzanga.md         |  14 [32m++[m
+ hymns/Chichewa/307-ABALE anga ine ndikupita.md     |  29 [32m++++[m
+ hymns/Chichewa/308-AULENDO, munka kuti.md          |  42 [32m++++++[m
+ hymns/Chichewa/309-ANA akumwamba ndife.md          |  18 [32m+++[m
+ hymns/Chichewa/31-MULUNGU Wamkulu.md               |  26 [32m++++[m
+ hymns/Chichewa/310-MBUYE munditsogolere.md         |  20 [32m+++[m
+ hymns/Chichewa/311-VALANI zida tizinka kwathuko.md |  20 [32m+++[m
+ hymns/Chichewa/312-NDIMAYENDA paulendo.md          |  34 [32m+++++[m
+ ...DI\305\264ALIRE m\342\200\231njira mwangamo.md" |  20 [32m+++[m
+ hymns/Chichewa/314-TIYENI nonsenu okonda YESUYO.md |  26 [32m++++[m
+ hymns/Chichewa/315-YENDANI munjira yake.md         |  20 [32m+++[m
+ hymns/Chichewa/316-NDAMVATU kuti tifika komweko.md |  18 [32m+++[m
+ hymns/Chichewa/317-UKATHA moyo wanga.md            |  34 [32m+++++[m
+ hymns/Chichewa/318-TINALI ambiri ife.md            |  17 [32m+++[m
+ hymns/Chichewa/319-NDIDZATANI ine.md               |  18 [32m+++[m
+ hymns/Chichewa/32-YENDANI, Mfumu yamtendere.md     |  20 [32m+++[m
+ .../320-NDIKONDA Mlungu pomva Mbuye wanga.md       |  22 [32m+++[m
+ hymns/Chichewa/321-PAKUONA imfayo.md               |  27 [32m++++[m
+ .../322-PAKUYITANIDWA munthu pa dziko ino.md       |  20 [32m+++[m
+ .../323-APITA anzathu dzu\305\265a lino.md"        |   9 [32m++[m
+ hymns/Chichewa/324-TIKAGWIDWA ndi chisoni.md       |  22 [32m+++[m
+ hymns/Chichewa/325-KODI uli ndi chisoni.md         |  30 [32m+++++[m
+ hymns/Chichewa/326-TSIKU Iidzafika mbale.md        |  14 [32m++[m
+ hymns/Chichewa/327-NTCHITO yonse yakeyo.md         |  26 [32m++++[m
+ hymns/Chichewa/328-KULIBE vuto.md                  |  21 [32m+++[m
+ hymns/Chichewa/329-MUMZINDA wa Mulungu.md          |  25 [32m++++[m
+ hymns/Chichewa/33-OWONADI mtima.md                 |  25 [32m++++[m
+ hymns/Chichewa/330-N'LOKOMA Dziko langa!.md        |  42 [32m++++++[m
+ hymns/Chichewa/331-NDILI ndi kwathu ine.md         |  22 [32m+++[m
+ hymns/Chichewa/332-NDIKONDWA kuganizirabe.md       |  26 [32m++++[m
+ .../333-M\342\200\231DZIKO lino tikhalamo.md"      |  22 [32m+++[m
+ hymns/Chichewa/334-KULI dziko labwino M'mwamba.md  |  18 [32m+++[m
+ .../335-KWATHU sipadziko, ndingopitilira.md        |  22 [32m+++[m
+ .../Chichewa/336-KULINSO dziko lowala M'mwamba.md  |  18 [32m+++[m
+ ...KO pano tikhalira M\342\200\231moyo wosauka.md" |  29 [32m++++[m
+ .../338-\342\200\231TATE wa Kumwambako.md"         |  20 [32m+++[m
+ hymns/Chichewa/339-MTIMA wanga ndikonzera.md       |  26 [32m++++[m
+ hymns/Chichewa/34-AMITHENGA a Mulungu.md           |  31 [32m+++++[m
+ .../340-PEMPHERA m\342\200\231mbanda kucha.md"     |  34 [32m+++++[m
+ hymns/Chichewa/341-PAKUPEMPHERATU.md               |  32 [32m+++++[m
+ hymns/Chichewa/342-BWENZI lathu ndiye Yesu.md      |  27 [32m++++[m
+ .../Chichewa/343-ZOKOMA ndithu ntha\305\265izi.md" |  32 [32m+++++[m
+ .../344-\342\200\231TATE, \342\200\231Nu.md"       |  29 [32m++++[m
+ hymns/Chichewa/345-ATATE, ndipempha.md             |  17 [32m+++[m
+ hymns/Chichewa/346-PEMPHERO ndiko kufuna.md        |  22 [32m+++[m
+ hymns/Chichewa/347-YESU, ndipemphera.md            |  26 [32m++++[m
+ hymns/Chichewa/348-CHIKHULUPIRIRO chathu.md        |   6 [32m+[m
+ .../Chichewa/349-MOSE anamenya thanthwe kawiri.md  |  18 [32m+++[m
+ hymns/Chichewa/35-KODI mwaona chiyani.md           |  18 [32m+++[m
+ hymns/Chichewa/350-MBUYE ndayima pano.md           |  20 [32m+++[m
+ hymns/Chichewa/351-CHIYEMBEKEZO changacho.md       |  24 [32m++++[m
+ hymns/Chichewa/352-NONSE okhala pansipa.md         |  18 [32m+++[m
+ .../353-ATATE Wamkulu ndi Wamphamvu zonse.md       |  20 [32m+++[m
+ hymns/Chichewa/354-ATATE, tifika pamaso panu.md    |  18 [32m+++[m
+ hymns/Chichewa/355-DZIKO lonse mlambire.md         |  22 [32m+++[m
+ hymns/Chichewa/356-YESU Mbuye onani.md             |  20 [32m+++[m
+ hymns/Chichewa/357-TAMANDANI Mbuye.md              |  16 [32m+++[m
+ hymns/Chichewa/358-MLUNGU ali muno.md              |  29 [32m++++[m
+ hymns/Chichewa/359-TADZUKA mzimu wanga 'we.md      |  26 [32m++++[m
+ ...-AMBUYE tsopano lino, monga mwa mawu anu aja.md |   8 [32m++[m
+ hymns/Chichewa/360-KRISTU wakuyeratu.md            |  20 [32m+++[m
+ hymns/Chichewa/361-AMBUYE munapatsa tsiku.md       |  26 [32m++++[m
+ ...MUKHALE ndine, dzu\305\265alo lalo\305\265a.md" |  22 [32m+++[m
+ hymns/Chichewa/363-ATATE ndiyamika.md              |  22 [32m+++[m
+ "hymns/Chichewa/364-DZU\305\264A lapitira.md"      |  34 [32m+++++[m
+ "hymns/Chichewa/365-DZU\305\264A lapita.md"        |  23 [32m++++[m
+ hymns/Chichewa/366-MADZULO aja kalero.md           |  26 [32m++++[m
+ hymns/Chichewa/367-MPULUMUTSI, tikagona.md         |  18 [32m+++[m
+ .../Chichewa/368-MULUNGU wanga, Dzu\305\265atu.md" |  18 [32m+++[m
+ hymns/Chichewa/369-LERO mwatipatsa moyo.md         |  18 [32m+++[m
+ hymns/Chichewa/37-YESU analikhanda.md              |  26 [32m++++[m
+ hymns/Chichewa/370-KWACHA lero kwati mbee.md       |  26 [32m++++[m
+ hymns/Chichewa/371-AMBUYE, tasonkhana.md           |  26 [32m++++[m
+ "hymns/Chichewa/372-DZU\305\264A la Mulungu.md"    |  18 [32m+++[m
+ hymns/Chichewa/373-NYUMBA ya Mulungu, ili pano.md  |  19 [32m+++[m
+ .../374-NDI lokoma m\342\200\231Mwambamo.md"       |  26 [32m++++[m
+ hymns/Chichewa/375-YESU m'khale nafe.md            |  14 [32m++[m
+ hymns/Chichewa/376-PAMTANDA Mbuye anafera.md       |  22 [32m+++[m
+ .../377-ANTCHITO a Mulungu \342\200\231nu.md"      |  14 [32m++[m
+ hymns/Chichewa/378-KWEZANI mitu yanuyo.md          |  23 [32m++++[m
+ hymns/Chichewa/379-MTSINJE woyerawo.md             |  18 [32m+++[m
+ hymns/Chichewa/38-ANGELO ayimba.md                 |  31 [32m+++++[m
+ hymns/Chichewa/380-ATATE, muwapenya.md             |  26 [32m++++[m
+ hymns/Chichewa/381-MONGA zomera zonsezo.md         |  18 [32m+++[m
+ hymns/Chichewa/382-M'wabatize anzathuwa.md         |  21 [32m+++[m
+ hymns/Chichewa/383-KASUPE ali wodzaza.md           |  42 [32m++++++[m
+ hymns/Chichewa/384-USIKU uja kalero.md             |  26 [32m++++[m
+ .../385-SINDILI woyenera \342\200\231ne.md"        |  18 [32m+++[m
+ hymns/Chichewa/386-MONGATU mawu anuwo.md           |  22 [32m+++[m
+ ...ZE, anthuni, tala\305\265ani \342\200\231nu.md" |  18 [32m+++[m
+ hymns/Chichewa/388-MOMMUNO, Mbuye tionanetu.md     |  26 [32m++++[m
+ hymns/Chichewa/389-NDIMAMVA njala, Yesu.md         |  22 [32m+++[m
+ hymns/Chichewa/39-MUNASIYATU dziko lanulo.md       |  35 [32m+++++[m
+ hymns/Chichewa/390-A! YESU, ndapangana.md          |  34 [32m+++++[m
+ hymns/Chichewa/391-MUNDIMVERE, Mbuye wanga.md      |  22 [32m+++[m
+ hymns/Chichewa/392-ANU Mbuye ndifetu!.md           |  22 [32m+++[m
+ hymns/Chichewa/393-ZOPEREKA tiperekazi.md          |  22 [32m+++[m
+ hymns/Chichewa/394-TATENGA mphatso zotani-.md      |  18 [32m+++[m
+ hymns/Chichewa/395-AMBUYE, Mwini zonsezi.md        |  22 [32m+++[m
+ .../396-PETURO \342\200\231nafunsa Hananiya.md"    |  22 [32m+++[m
+ hymns/Chichewa/397-MBUYE wathu, mutipatsa.md       |  38 [32m++++++[m
+ .../398-KODI mbale wasimba zachikhululukiro.md     |  26 [32m++++[m
+ ...31KHOLA mwa ng\342\200\231ombe ku Betlehemu.md" |  31 [32m+++++[m
+ hymns/Chichewa/4-INU Mulungu, tikuyamikani.md      |  46 [32m+++++++[m
+ .../40-KAMWANA Yesu \342\200\231nabadwa.md"        |  22 [32m+++[m
+ hymns/Chichewa/400-ONA Mwana wa Nkhosa.md          |  18 [32m+++[m
+ hymns/Chichewa/401-A MULUNGU.md                    |  26 [32m++++[m
+ hymns/Chichewa/402-BWERANITU, bweranitu.md         |  30 [32m+++++[m
+ hymns/Chichewa/403-NDIYIMBA ndi chimwemwe lero.md  |  23 [32m++++[m
+ hymns/Chichewa/404-YANG'ANA mtanda wa Yesu.md      |  17 [32m+++[m
+ hymns/Chichewa/405-POLENGA dzikoli.md              |  30 [32m+++++[m
+ ...200\231MENE umauka m\342\200\231ma\305\265a.md" |  33 [32m+++++[m
+ hymns/Chichewa/407-ADZAPAMBANA Yesu ponse.md       |  23 [32m++++[m
+ hymns/Chichewa/408-ABALE nonse mulindiranji-.md    |  18 [32m+++[m
+ .../409-ANTHU akum\342\200\231ma\305\265a.md"      |  42 [32m++++++[m
+ hymns/Chichewa/41-MKATI mwa zovuta zathu.md        |  22 [32m+++[m
+ hymns/Chichewa/410-MAWU akewo anamveka ponse.md    |  18 [32m+++[m
+ hymns/Chichewa/411-TAMVA mawu omwewo.md            |  26 [32m++++[m
+ hymns/Chichewa/412-MOYO uli pafupi.md              |  22 [32m+++[m
+ .../413-ZIPATA zachitsulo zitseguke zonse mbee!.md |  15 [32m+++[m
+ hymns/Chichewa/414-INU bambo, inu mayi.md          |  18 [32m+++[m
+ hymns/Chichewa/415-PAMAYIKO pali mdima.md          |  26 [32m++++[m
+ hymns/Chichewa/416-PALIBE wina Kumwamba.md         |  18 [32m+++[m
+ hymns/Chichewa/417-M'BWERE Mlungu Mbuye wathu.md   |  18 [32m+++[m
+ hymns/Chichewa/418-UDINDO wolalikira Uthenga.md    |  30 [32m+++++[m
+ hymns/Chichewa/419-ANYAMATA a Mulungu.md           |  34 [32m+++++[m
+ hymns/Chichewa/42--SENZANI mtanda wanuwu.md        |  22 [32m+++[m
+ hymns/Chichewa/420-FESANI mbewuzo.md               |  28 [32m++++[m
+ .../Chichewa/421-ANTHU ali m'mdima akuyitanitsa.md |  20 [32m+++[m
+ hymns/Chichewa/422-DZIKO lonse lapansi.md          |  26 [32m++++[m
+ .../423-MUNENE Mbuye, \342\200\231nenetu.md"       |  30 [32m+++++[m
+ hymns/Chichewa/424-MTIDZUTSE, Mbuyetu.md           |  22 [32m+++[m
+ .../425-AKRISTU ndi abale, tiziyenderana tonse.md  |  23 [32m++++[m
+ .../426-MBUYE, Mpingo wanu usauka kwakukuludi.md   |  20 [32m+++[m
+ hymns/Chichewa/427-AULENDO amayenda.md             |  26 [32m++++[m
+ hymns/Chichewa/428-MBUYE mtsitsimutse.md           |  26 [32m++++[m
+ hymns/Chichewa/429-M'DZANJA lanu Ambuye.md         |  14 [32m++[m
+ hymns/Chichewa/43-GETSEMANI, Getsemani.md          |  21 [32m+++[m
+ .../Chichewa/430-MLUNGU akuyang'anired\303\255.md" |  22 [32m+++[m
+ hymns/Chichewa/431-AKAPANDA kumanga.md             |  18 [32m+++[m
+ hymns/Chichewa/432-KRISTU ndiye Mwala wathu.md     |  20 [32m+++[m
+ .../433-MULUNGU wa Kumwamba bwera kunoku.md        |  18 [32m+++[m
+ hymns/Chichewa/434-CHIKONDI cha Mulunguyo.md       |  20 [32m+++[m
+ hymns/Chichewa/435-ANAKWATIRA kale.md              |  22 [32m+++[m
+ hymns/Chichewa/436-YEHOVA Mlungu wathu.md          |  34 [32m+++++[m
+ ...437-MULUNGU wa Yakobo Inu, mdyetsa anthu anu.md |  12 [32m++[m
+ hymns/Chichewa/438-TIYAMIKE Ambuye.md              |  22 [32m+++[m
+ hymns/Chichewa/439-MLUNGU wathu mwatifitsa.md      |  34 [32m+++++[m
+ hymns/Chichewa/44-NTHAWIYO anam'gwira Yesu.md      |  22 [32m+++[m
+ hymns/Chichewa/440-ZIKOMO Ambuye wathu.md          |  18 [32m+++[m
+ hymns/Chichewa/441-MBUYE, tikuthokozani.md         |  34 [32m+++++[m
+ hymns/Chichewa/442-MASIKA a m'dziko Mbuye.md       |  18 [32m+++[m
+ .../443-M\342\200\231MA\305\264A tizifesa.md"      |  30 [32m+++++[m
+ hymns/Chichewa/444-YEMWE afesa nalira.md           |  18 [32m+++[m
+ .../Chichewa/445-TILIMALIMA m\342\200\231minda.md" |  30 [32m+++++[m
+ .../Chichewa/446-YAMIKANI nonse \342\200\231nu.md" |  34 [32m+++++[m
+ hymns/Chichewa/447-OYAMIKA Mlungu m'bwere.md       |  26 [32m++++[m
+ ...48-CHIFUKWA cha zokoma mtima zonse zaulelezo.md |  35 [32m+++++[m
+ hymns/Chichewa/449-MLENGI wathu Woyeranu.md        |  27 [32m++++[m
+ hymns/Chichewa/45-IFE timakufunani.md              |  34 [32m+++++[m
+ hymns/Chichewa/450-YESU, munditsogoza.md           |  20 [32m+++[m
+ hymns/Chichewa/451-MLUNGU alinane.md               |  14 [32m++[m
+ hymns/Chichewa/452-MLUNGU, Inutu.md                |  22 [32m+++[m
+ hymns/Chichewa/453-A! MULUNGU.md                   |  26 [32m++++[m
+ hymns/Chichewa/454-TAONANI, m'kholamo.md           |  30 [32m+++++[m
+ hymns/Chichewa/455-TIIMBE ndi kulalikira.md        |  32 [32m+++++[m
+ hymns/Chichewa/456-ANA inu, ana inu.md             |  26 [32m++++[m
+ .../457-KALE m\342\200\231mzinda wachifumu.md"     |  38 [32m++++++[m
+ hymns/Chichewa/458-USIKUWO, woyerawo!.md           |  20 [32m+++[m
+ hymns/Chichewa/459-KALE anthu m'kholamo.md         |  22 [32m+++[m
+ hymns/Chichewa/46-INALIPO nthawi.md                |  34 [32m+++++[m
+ .../460-KULI kaphiri m\342\200\231talimo.md"       |  26 [32m++++[m
+ hymns/Chichewa/461-ANA inu, myamikeni.md           |  26 [32m++++[m
+ hymns/Chichewa/462-ANANU, ziimbani.md              |  26 [32m++++[m
+ hymns/Chichewa/463-MNANDIDZERA, Ambuye.md          |  28 [32m++++[m
+ .../464-AKAZI anadza kwa Yesu ndi anawo.md         |  26 [32m++++[m
+ hymns/Chichewa/465-ANA a Yerusalemu.md             |  18 [32m+++[m
+ hymns/Chichewa/466-OSANATU, osana.md               |  34 [32m+++++[m
+ hymns/Chichewa/467-NGOLIZO zilira.md               |  30 [32m+++++[m
+ hymns/Chichewa/468-NDIKONDWA kuti.md               |  23 [32m++++[m
+ hymns/Chichewa/469-NDIKONDA mbiri yomwe.md         |  25 [32m++++[m
+ hymns/Chichewa/47-YESU panjirayo.md                |  34 [32m+++++[m
+ hymns/Chichewa/470-YESU andikonda ine.md           |  22 [32m+++[m
+ .../471-YESU Mbuye \342\200\231Nu wofatsa.md"      |  22 [32m+++[m
+ hymns/Chichewa/472-YESU, ndikabwera.md             |  22 [32m+++[m
+ hymns/Chichewa/473-YESU wa Kumwamba.md             |  25 [32m++++[m
+ hymns/Chichewa/474-MPULUMUTSI, Mbusa wathu.md      |  26 [32m++++[m
+ hymns/Chichewa/475-MZINDA woyerawo.md              |  22 [32m+++[m
+ hymns/Chichewa/476-MBUYE, tili ana anu.md          |  18 [32m+++[m
+ hymns/Chichewa/477-YESU, muli pa chimpando.md      |  22 [32m+++[m
+ ...78-YESU atiuza ti\305\265ale \342\200\231fe.md" |  14 [32m++[m
+ hymns/Chichewa/479-ANYAMATA inutu.md               |  32 [32m+++++[m
+ hymns/Chichewa/48-IMFA ya Mwana wa Mulungu.md      |  20 [32m+++[m
+ hymns/Chichewa/480-TIANA ife tingofoka.md          |  26 [32m++++[m
+ hymns/Chichewa/481-USACHIMWE konse.md              |  22 [32m+++[m
+ .../Chichewa/482-TCHIMO musalole, musadziipitse.md |  18 [32m+++[m
+ .../Chichewa/483-NTHA\305\264I yaubwana yatha.md"  |  18 [32m+++[m
+ hymns/Chichewa/484-YESU ndiye Mbusa.md             |  32 [32m+++++[m
+ hymns/Chichewa/485-POMPANO pandikonda.md           |  32 [32m+++++[m
+ hymns/Chichewa/486-MPULUMUTSI Yesu.md              |  38 [32m++++++[m
+ hymns/Chichewa/487-INE ndine mlendo.md             |  22 [32m+++[m
+ .../488-M\342\200\231MANJA a Yesu wanga.md"        |  30 [32m+++++[m
+ hymns/Chichewa/489-YESU ndiye Bwenzi lathu.md      |  33 [32m+++++[m
+ hymns/Chichewa/49-ONA Mwanawankhosayo.md           |  17 [32m+++[m
+ hymns/Chichewa/490-YESU adza kuwerenga.md          |  18 [32m+++[m
+ hymns/Chichewa/491-KWA Yesu ndi kwabwinoko.md      |  26 [32m++++[m
+ hymns/Chichewa/492-DZIKO lilipolo.md               |  25 [32m++++[m
+ "hymns/Chichewa/493-DZU\305\264A li.md"            |  14 [32m++[m
+ hymns/Chichewa/494-YESU Mbusa, mutimvere.md        |  14 [32m++[m
+ .../495-MLUNGU dalitsani Mala\305\265i.md"         |  26 [32m++++[m
+ hymns/Chichewa/496-MBUYE dalitsani Afirika.md      |  22 [32m+++[m
+ hymns/Chichewa/497-TILIKUIMBA nyimbo yomweyi.md    |  18 [32m+++[m
+ hymns/Chichewa/498-AMBUYE, mtidalitsetu.md         |  20 [32m+++[m
+ hymns/Chichewa/499-TIKUTHA kupemphera.md           |  18 [32m+++[m
+ hymns/Chichewa/5-ATATE wa Kumwambako.md            |  18 [32m+++[m
+ hymns/Chichewa/50-PAUSIKU uja.md                   |  33 [32m+++++[m
+ hymns/Chichewa/500-AMEN, Amen, Amen.md             |   3 [32m+[m
+ hymns/Chichewa/51-PANTHAWI yakufa Ambuye.md        |  22 [32m+++[m
+ .../Chichewa/52-POTULUKA m\342\200\231mudzimo.md"  |  38 [32m++++++[m
+ hymns/Chichewa/53-AMBUYE Yesu anamva chisoni.md    |  18 [32m+++[m
+ hymns/Chichewa/54-MUNTHU wazisoniyo.md             |  22 [32m+++[m
+ hymns/Chichewa/55-UNAKHETSEDWA mwazi do!.md        |  26 [32m++++[m
+ hymns/Chichewa/56-KU Mzinda wakuyerawo.md          |  18 [32m+++[m
+ hymns/Chichewa/57-TIYENI, dzalireni nane.md        |  22 [32m+++[m
+ hymns/Chichewa/58-PAMTANDAPO Ambuyeyo.md           |  22 [32m+++[m
+ hymns/Chichewa/59-IMVANI uthenga.md                |  18 [32m+++[m
+ .../6-LEMEKEZA Mulungu \342\200\231Tate.md"        |  20 [32m+++[m
+ hymns/Chichewa/60-ZATHEDWA zonsetu.md              |  26 [32m++++[m
+ hymns/Chichewa/61-A! MUTU wakuyera.md              |  34 [32m+++++[m
+ hymns/Chichewa/62-AMBUYE Yesu.md                   |  21 [32m+++[m
+ hymns/Chichewa/63-POKUMBUKIRA mtandawo.md          |  18 [32m+++[m
+ hymns/Chichewa/64-LERO Kristu anauka.md            |  34 [32m+++++[m
+ "hymns/Chichewa/65-NLA Mlungu dzu\305\265ali.md"   |  24 [32m++++[m
+ hymns/Chichewa/66-ALELUYA, Aleluya, Aleluya!.md    |  23 [32m++++[m
+ hymns/Chichewa/67-PAMENEPO pokhala madzulo.md      |  18 [32m+++[m
+ hymns/Chichewa/68-M'MANDA, nagonamo.md             |  20 [32m+++[m
+ .../Chichewa/69-KONDWERANI dzu\305\265a lino.md"   |  34 [32m+++++[m
+ hymns/Chichewa/7-NDI Aleluya imbirani.md           |  27 [32m++++[m
+ hymns/Chichewa/70-LAMBIRA, Mfumuyo.md              |  26 [32m++++[m
+ .../71-DZIKO lino lapansi, ndilibetu abwenzi.md    |  24 [32m++++[m
+ hymns/Chichewa/72-YESU wakukoma mtima.md           |  42 [32m++++++[m
+ hymns/Chichewa/73-M'SANDIPITILIRE Yesu.md          |  22 [32m+++[m
+ hymns/Chichewa/74-IDZA wolema.md                   |  34 [32m+++++[m
+ hymns/Chichewa/75-MBUYE, mutsaganetu.md            |  18 [32m+++[m
+ "hymns/Chichewa/76-E, MOYO wanga\342\200\231we.md" |  25 [32m++++[m
+ hymns/Chichewa/77-MMENE Yesu adzabwera.md          |  26 [32m++++[m
+ hymns/Chichewa/78-ALINKUDZA wansoni Munthu.md      |  19 [32m+++[m
+ hymns/Chichewa/79-PAKWITANA Mbuye wanga.md         |  24 [32m++++[m
+ hymns/Chichewa/8-MITAMBO inu yakumwambako.md       |  38 [32m++++++[m
+ hymns/Chichewa/80-KUDZA kwa Mbuye.md               |  20 [32m+++[m
+ hymns/Chichewa/81-MBUYE Yesu adzabwera.md          |  26 [32m++++[m
+ .../82-YANG\342\200\231ANANI, anthu onse.md"       |  22 [32m+++[m
+ hymns/Chichewa/83-MBUYEYO adzabwera.md             |  26 [32m++++[m
+ .../Chichewa/84-LIDZE msanga dzu\305\265a lanu.md" |  22 [32m+++[m
+ hymns/Chichewa/85-MASO ndi maso ndi Kristu.md      |  22 [32m+++[m
+ hymns/Chichewa/86-IYE wokhulupilira Yesu.md        |  21 [32m+++[m
+ "hymns/Chichewa/87-IDZANI nonse \342\200\231nu.md" |  30 [32m+++++[m
+ hymns/Chichewa/88-Yesu, dzina lakukonda.md         |  22 [32m+++[m
+ hymns/Chichewa/89-INDE, ndifuna kumvatu.md         |  22 [32m+++[m
+ hymns/Chichewa/9-TAMANI Ambuye.md                  |  42 [32m++++++[m
+ hymns/Chichewa/90-WINA atikonda ife.md             |  24 [32m++++[m
+ .../91-NDITAME Mlungu m\342\200\231mtimamo.md"     |  26 [32m++++[m
+ hymns/Chichewa/92-KONDA dzinalo la Yesu.md         |  22 [32m+++[m
+ .../93-YAMIKANI dzina la Yesu Khrisituyo.md        |  19 [32m+++[m
+ hymns/Chichewa/94-KHAMULO liliko.md                |  26 [32m++++[m
+ hymns/Chichewa/95-TAMANI mphamvu ya Yesu.md        |  21 [32m+++[m
+ hymns/Chichewa/96-MTIMA wanga uyamiketu.md         |  14 [32m++[m
+ hymns/Chichewa/97-TIYAMIKE Mlunguyo.md             |  34 [32m+++++[m
+ hymns/Chichewa/98-YESU, Bwenzi la ochimwa.md       |  26 [32m++++[m
+ hymns/Chichewa/99-TIYAMIKE mbuye Yesu.md           |  18 [32m+++[m
+ hymns/English/100-Christ receiveth sinful men.md   |  14 [32m++[m
+ hymns/English/101-Bring them in.md                 |  23 [32m++++[m
+ hymns/English/102-Rock of Ages, cleft for me.md    |  27 [32m++++[m
+ .../English/103-I heard the voice of Jesus say.md  |  28 [32m++++[m
+ hymns/English/104-Jesus, Lover of my soul.md       |  17 [32m+++[m
+ .../English/105-Just as I am, without one plea.md  |  14 [32m++[m
+ hymns/English/106-My faith looks up to Thee.md     |  25 [32m++++[m
+ hymns/English/107-Jesus, keep me near the Cross.md |  15 [32m+++[m
+ hymns/English/108-Come, Great Deliverer, come!.md  |  33 [32m+++++[m
+ hymns/English/109-I am coming to the cross.md      |  28 [32m++++[m
+ .../English/110-I am trusting Thee, Lord Jesus.md  |  32 [32m+++++[m
+ .../111-I left it all with Jesus long ago.md       |  20 [32m+++[m
+ hymns/English/112-Jesus, my Lord, to Thee I cry.md |  13 [32m++[m
+ .../113-Jesus, Thou art standing pleading.md       |  26 [32m++++[m
+ hymns/English/114-What can wash away my stain-.md  |  12 [32m++[m
+ hymns/English/115-Take me, O my Father, take me.md |  25 [32m++++[m
+ .../116-Love Divine, all loves excelling.md        |  28 [32m++++[m
+ hymns/English/117-Hark, my soul! It is the Lord.md |  27 [32m++++[m
+ hymns/English/118-Jesus paid it all.md             |  27 [32m++++[m
+ .../119-How sweet the name of Jesus sounds.md      |  25 [32m++++[m
+ .../120-I will sing of the wondrous story.md       |  25 [32m++++[m
+ ...\200\231ve found a Friend, O such a Friend!.md" |  11 [32m++[m
+ hymns/English/122-More love to Thee.md             |  24 [32m++++[m
+ hymns/English/123-More to follow.md                |   9 [32m++[m
+ hymns/English/124-Happy day.md                     |  23 [32m++++[m
+ .../125-Lord Jesus, I love Thee, I know Thou.md    |  27 [32m++++[m
+ hymns/English/126-Saviour, Thy dying love.md       |  35 [32m+++++[m
+ hymns/English/127-In tenderness He sought me.md    |  35 [32m+++++[m
+ hymns/English/128-Hallelujah! Thine the glory!.md  |  28 [32m++++[m
+ hymns/English/129-O that will be joyful.md         |  15 [32m+++[m
+ .../English/130-Happy the man that finds grace.md  |  20 [32m+++[m
+ hymns/English/131-Blessed assurance.md             |  10 [32m++[m
+ hymns/English/132-He is not a disappointment!.md   |  37 [32m++++++[m
+ hymns/English/133-Glory to God on high!.md         |  26 [32m++++[m
+ hymns/English/134-Like a river, glorious.md        |  29 [32m++++[m
+ hymns/English/135-I am trusting.md                 |  24 [32m++++[m
+ ...e, perfect peace, in this dark world of sin-.md |  22 [32m+++[m
+ ...et peace, the gift of God\342\200\231s love.md" |  23 [32m++++[m
+ hymns/English/138-Be still, my soul.md             |  38 [32m++++++[m
+ .../139-From every stormy wind that brows.md       |  23 [32m++++[m
+ hymns/English/140-He leadeth me.md                 |  23 [32m++++[m
+ .../141-When the storms of life are raging.md      |  20 [32m+++[m
+ .../English/142-Hold Thou my hand- so weak I am.md |  28 [32m++++[m
+ hymns/English/143-I need Thee, precious Jesus!.md  |  30 [32m+++++[m
+ hymns/English/144-I need Thee every hour.md        |  27 [32m++++[m
+ hymns/English/145-In the heart of Jesus.md         |  32 [32m+++++[m
+ hymns/English/146-Remember me, O mighty one!.md    |  19 [32m+++[m
+ hymns/English/147-Father, long before creation.md  |  23 [32m++++[m
+ .../English/148-Something every heart is loving.md |  18 [32m+++[m
+ .../English/149-We cannot always trace the way.md  |  22 [32m+++[m
+ hymns/English/150-Blest are the pure in heart.md   |  19 [32m+++[m
+ .../151-Let me come closer to Thee, Lord.md        |  29 [32m++++[m
+ ...bide in me!\342\200\235 Most loving counsel.md" |  35 [32m+++++[m
+ hymns/English/153-O Lamb of God, still keep me.md  |  26 [32m++++[m
+ hymns/English/154-Take time to be holy.md          |  35 [32m+++++[m
+ hymns/English/155-O my Father take me, make me.md  |  15 [32m+++[m
+ hymns/English/156-Even me.md                       |  38 [32m++++++[m
+ .../157-O help us, Lord; each hour of need.md      |  11 [32m++[m
+ hymns/English/158-It is well.md                    |  31 [32m+++++[m
+ hymns/English/159-O for a closer walk with God.md  |  27 [32m++++[m
+ .../English/160-O for a heart to praise my God.md  |  27 [32m++++[m
+ hymns/English/161-More holiness give me.md         |  20 [32m+++[m
+ .../162-Lord Jesus, I long to be perfectly.md      |  31 [32m+++++[m
+ hymns/English/163-Seek ye first.md                 |  26 [32m++++[m
+ hymns/English/164-Christian, work for Jesus.md     |  23 [32m++++[m
+ .../English/165-Work, for the night is coming!.md  |  26 [32m++++[m
+ .../166-Fight the good fight with all thy might.md |  18 [32m+++[m
+ .../English/167-How shall I follow Him I serve-.md |  27 [32m++++[m
+ .../168-Down in the valley with my Savour.md       |  34 [32m+++++[m
+ hymns/English/169-Take my life, and let it be.md   |  27 [32m++++[m
+ hymns/English/170-Bringing in the sheaves.md       |  36 [32m+++++[m
+ .../English/171-When thou wakest in the morning.md |  22 [32m+++[m
+ .../172--Hold the fort, for I am coming!-.md       |  25 [32m++++[m
+ hymns/English/173-Soldiers of Christ, arise.md     |  25 [32m++++[m
+ .../174-Courage, brother! Do not stumble.md        |  34 [32m+++++[m
+ hymns/English/175-In the hour of trial.md          |  32 [32m+++++[m
+ .../176-Lead us, heavenly Father, lead us.md       |  20 [32m+++[m
+ hymns/English/177-Onward! Christian soldiers.md    |  48 [32m+++++++[m
+ hymns/English/178-Much in sorrow, oft in woe.md    |  27 [32m++++[m
+ hymns/English/179-Stand up! Stand up for Jesus.md  |  27 [32m++++[m
+ hymns/English/180-Christian, dost thou see them.md |  35 [32m+++++[m
+ .../181-Whither, pilgrims, are you going.md        |  46 [32m+++++++[m
+ hymns/English/182-Children of the heavenly King.md |  24 [32m++++[m
+ .../English/183-Guide me, O Thou great Jehovah.md  |  21 [32m+++[m
+ ...184-I\342\200\231m a pilgrim and a stranger.md" |  34 [32m+++++[m
+ ...indly Light, amid th\342\200\231 encircling.md" |  30 [32m+++++[m
+ .../186-We\342\200\231re marching to Zion.md"      |  31 [32m+++++[m
+ hymns/English/187-Glory for me.md                  |  25 [32m++++[m
+ hymns/English/188-The sands of time are sinking.md |  35 [32m+++++[m
+ .../189-When our heads are bowed with woe.md       |  23 [32m++++[m
+ ...-Take comfort, Christians, when your friends.md |  31 [32m+++++[m
+ ...aborer\342\200\231s task is o\342\200\231er.md" |  18 [32m+++[m
+ hymns/English/192-Jerusalem the golden.md          |  22 [32m+++[m
+ .../English/193-For Thee, O dear, dear country.md  |  32 [32m+++++[m
+ .../194-There\342\200\231ll be no parting.md"      |  36 [32m+++++[m
+ hymns/English/195-Father of all! We bow to Thee.md |  32 [32m+++++[m
+ .../English/196-Come, my soul, thy suit prepare.md |  28 [32m++++[m
+ hymns/English/197-Go when the morning shineth.md   |  27 [32m++++[m
+ .../198-Lord, teach us how to pray aright.md       |  25 [32m++++[m
+ .../English/199-What a Friend we have in Jesus.md  |  25 [32m++++[m
+ .../200-Sweet hour of prayer! Sweet hour.md        |  39 [32m++++++[m
+ hymns/English/201-Revive Thy work, O Lord!.md      |  24 [32m++++[m
+ .../202-The Church\342\200\231s one foundation.md" |  40 [32m++++++[m
+ hymns/English/203-Jesus, with Thy Church abide.md  |  35 [32m+++++[m
+ .../204-Through the night of doubt and sorrow.md   |  22 [32m+++[m
+ .../205-Awake, my soul, and with the sun.md        |  20 [32m+++[m
+ .../206-Christ, whose glory fills the skies.md     |  21 [32m+++[m
+ .../207-The day Thou gavest, Lord, is ended.md     |  27 [32m++++[m
+ .../208-Abide with me- fast falls the even-tide.md |  40 [32m++++++[m
+ .../209-All praise to Thee, my God, this night.md  |  18 [32m+++[m
+ hymns/English/210-Now the day is over.md           |  25 [32m++++[m
+ hymns/English/211-Savior, now the day is ending.md |  17 [32m+++[m
+ hymns/English/212-At even when the sun was set.md  |  32 [32m+++++[m
+ .../213-Saviour, breathe an evening blessing.md    |  20 [32m+++[m
+ .../214-Sun of my soul, Thou Saviour dear.md       |  21 [32m+++[m
+ .../215-Through the day Thy love hath spared.md    |  16 [32m+++[m
+ .../216-Hail, thou bright and sacred morn.md       |  27 [32m++++[m
+ hymns/English/217-Jesus, we love to meet.md        |  22 [32m+++[m
+ hymns/English/218-O day of rest and gladness.md    |  27 [32m++++[m
+ hymns/English/219-Pleasant are Thy courts above.md |  26 [32m++++[m
+ hymns/English/220-Jesus, stand among us.md         |  15 [32m+++[m
+ .../English/221-O bless our God with one accord.md |  17 [32m+++[m
+ .../222-Ye gates, lift up your heads on high.md    |  30 [32m+++++[m
+ hymns/English/223-God reveals His presence.md      |  33 [32m+++++[m
+ hymns/English/224-Jesus, Master, whose I am.md     |  27 [32m++++[m
+ hymns/English/225-I lay my sins on Jesus.md        |  25 [32m++++[m
+ .../226-Our children, Lord, in faith and prayer.md |  16 [32m+++[m
+ ...7-\342\200\230Twas on the night when doomed.md" |  30 [32m+++++[m
+ hymns/English/228-I am not worthy, holy Lord.md    |  22 [32m+++[m
+ .../English/229-According to Thy gracious word.md  |  19 [32m+++[m
+ .../230-Come, take by faith the body of you.md     |  27 [32m++++[m
+ hymns/English/231-Here, O my Lord.md               |  36 [32m+++++[m
+ hymns/English/232-I hunger and I thirst.md         |  22 [32m+++[m
+ hymns/English/233-O Jesus, I have promised.md      |  27 [32m++++[m
+ hymns/English/234-Jesus, Saviour, hear my call.md  |  19 [32m+++[m
+ hymns/English/235-Thine for ever! God of love.md   |  23 [32m++++[m
+ ...Lord of heav\342\200\231n and earth and sea.md" |  26 [32m++++[m
+ hymns/English/237-We give Thee but Thine own.md    |  28 [32m++++[m
+ ..., Thou lov\342\200\231st the cheerful giver.md" |  20 [32m+++[m
+ hymns/English/239-Thou whose almighty Word.md      |  25 [32m++++[m
+ .../240-Jesus shall reign wherever the sun.md      |  25 [32m++++[m
+ hymns/English/241-From the eastern mountains.md    |  37 [32m++++++[m
+ hymns/English/242-We have heard a joyful sound.md  |  26 [32m++++[m
+ .../243-Lift up your heads, ye gates of brass.md   |  28 [32m++++[m
+ ...42\200\231er those gloomy hills of darkness.md" |  27 [32m++++[m
+ hymns/English/245-O Lord our God, arise!.md        |  20 [32m+++[m
+ hymns/English/246-Soldiers of the Cross, arise!.md |  27 [32m++++[m
+ hymns/English/247-Send the light.md                |  27 [32m++++[m
+ .../248-Lord, speak to me, that I may speak.md     |  32 [32m+++++[m
+ .../249-Be with us, gracious Lord, today.md        |  28 [32m++++[m
+ .../250-Christ is made the sure foundation.md      |  21 [32m+++[m
+ ...he voice that breathed o\342\200\231er Eden.md" |  28 [32m++++[m
+ hymns/English/252-O Father all creating.md         |  20 [32m+++[m
+ .../English/253-O God of Bethel, by whose hand.md  |  22 [32m+++[m
+ .../254-Heavenly Father, Thou hast brought us.md   |  31 [32m+++++[m
+ .../English/255-At Thy feet, our God and Father.md |  22 [32m+++[m
+ hymns/English/256-All good gifts around us.md      |  27 [32m++++[m
+ .../English/257-Come, ye thankful people, come.md  |  28 [32m++++[m
+ .../English/258-Lord of the harvest, once again.md |  23 [32m++++[m
+ .../English/259-Fountain of mercy, God of love.md  |  28 [32m++++[m
+ hymns/English/260-Holy Father, in Thy mercy.md     |  23 [32m++++[m
+ hymns/English/261-Jesus, Saviour, pilot me.md      |  21 [32m+++[m
+ hymns/English/262-God is always near me.md         |  15 [32m+++[m
+ hymns/English/263-God, who made the earth.md       |  18 [32m+++[m
+ hymns/English/264-Away in a manger.md              |  25 [32m++++[m
+ hymns/English/265-Hail, thou ever-blessed morn!.md |  30 [32m+++++[m
+ ...rom heav\342\200\231n above to earth I come.md" |  28 [32m++++[m
+ .../267-Little children, wake and listen!.md       |  28 [32m++++[m
+ hymns/English/268-Once in royal David's city.md    |  41 [32m++++++[m
+ hymns/English/269-Silent night! holy night!.md     |  21 [32m+++[m
+ hymns/English/270-Who is He, in yonder stall.md    |  19 [32m+++[m
+ hymns/English/271-There a green hill far away.md   |  22 [32m+++[m
+ hymns/English/272-Sweet hosannas.md                |  31 [32m+++++[m
+ hymns/English/273-Come, children, join to sing.md  |  26 [32m++++[m
+ hymns/English/274-When, His salvation bringing.md  |  18 [32m+++[m
+ hymns/English/275-When mothers of Salem.md         |  37 [32m++++++[m
+ hymns/English/276-Children of Jerusalem.md         |  22 [32m+++[m
+ hymns/English/277-Hosanna, loud hosanna.md         |  50 [32m+++++++[m
+ hymns/English/278-Jesus hath ascended!.md          |  41 [32m++++++[m
+ hymns/English/279-I am so glad.md                  |  32 [32m+++++[m
+ hymns/English/280-I love to hear the story.md      |  27 [32m++++[m
+ hymns/English/281-Jesus loves me!.md               |  20 [32m+++[m
+ hymns/English/282-Gentle Jesus, meek and mild.md   |  23 [32m++++[m
+ hymns/English/283-If I come to Jesus.md            |  24 [32m++++[m
+ hymns/English/284-Jesus, high in glory.md          |  17 [32m+++[m
+ .../285-Saviour, like a shepherd lead us.md        |  25 [32m++++[m
+ hymns/English/286-There is a city bright.md        |  23 [32m++++[m
+ hymns/English/287-Lord, a little band and lowly.md |  19 [32m+++[m
+ .../English/288-Jesus, from Thy throne on high.md  |  22 [32m+++[m
+ hymns/English/289-Jesus bids us shine.md           |  27 [32m++++[m
+ hymns/English/290-The fields are all white.md      |  24 [32m++++[m
+ .../English/291-We are but little children weak.md |  23 [32m++++[m
+ hymns/English/292-Do no sinful action.md           |  23 [32m++++[m
+ .../293-Yield not to temptation, for yielding.md   |  31 [32m+++++[m
+ ...0\231s years are passing o\342\200\231er us.md" |  14 [32m++[m
+ hymns/English/295-Jesus is our Shepherd.md         |  30 [32m+++++[m
+ .../English/296-The world looks very beautiful.md  |  31 [32m+++++[m
+ hymns/English/297-Saviour, blessed Saviour.md      |  34 [32m+++++[m
+ .../298-I\342\200\231m a little pilgrim.md"        |  21 [32m+++[m
+ hymns/English/299-Safe in the arms of Jesus.md     |  32 [32m+++++[m
+ ...-There\342\200\231s a Friend for the little.md" |  36 [32m+++++[m
+ .../English/301-When He cometh, when He cometh.md  |  20 [32m+++[m
+ .../302-There is a better world, they say.md       |  26 [32m++++[m
+ hymns/English/303-There is a happy land.md         |  27 [32m++++[m
+ hymns/English/304-The morning bright.md            |  21 [32m+++[m
+ .../English/305-Jesus, tender Shepherd, hear me.md |  14 [32m++[m
+ .../English/306-Saviour, again to Thy dear Name.md |  30 [32m+++++[m
+ hymns/English/307-O Saviour, bless us ere we go.md |  23 [32m++++[m
+ .../308-Lord, dismiss us with Thy blessing.md      |  15 [32m+++[m
+ .../309-Praise God, from whom all blessings.md     |   8 [32m++[m
+ .../English/310-To Father, Son, and Holy Ghost.md  |   7 [32m+[m
+ hymns/English/311-O God, our help in ages past.md  |  27 [32m++++[m
+ hymns/English/312-Lord, bless and pity us.md       |  19 [32m+++[m
+ .../313-All people that on earth do dwell.md       |  21 [32m+++[m
+ .../314-Ho! ye that thirst, approach the spring.md |  22 [32m+++[m
+ hymns/English/315-O praise the name our King.md    |  23 [32m++++[m
+ hymns/English/316-He is calling.md                 |  29 [32m++++[m
+ hymns/English/317-O praise the King of heaven.md   |  20 [32m+++[m
+ hymns/English/318-He is my Saviour.md              |  28 [32m++++[m
+ .../319-Jesus! What a Friend for sinners!.md       |  21 [32m+++[m
+ ...hining for Jesus e\342\200\231erywhere I go.md" |  25 [32m++++[m
+ .../English/321-There were ninety and nine that.md |  51 [32m+++++++[m
+ .../322-Jesus, Thine all-victorious love.md        |  20 [32m+++[m
+ hymns/English/323-Creator and Father.md            |  32 [32m+++++[m
+ hymns/English/324-Behold the holy Lamb of God!.md  |  21 [32m+++[m
+ hymns/English/325-Mother Mary laid Him.md          |  28 [32m++++[m
+ .../English/326-Come again, my Lord, come again.md |  15 [32m+++[m
+ .../327-All hail, Almighty, God everlasting!.md    |  28 [32m++++[m
+ hymns/English/328-Let the world in concert sing.md |  18 [32m+++[m
+ .../329-God be with you till we meet again.md      |  16 [32m+++[m
+ .../330-How few receive with cordial faith.md      |  43 [32m++++++[m
+ .../English/331-O for thousand tongues to sing.md  |  27 [32m++++[m
+ hymns/English/332-Ye servants of God.md            |  28 [32m++++[m
+ ...ttle while!\342\200\235 Our Lord shall come.md" |  21 [32m+++[m
+ .../English/334-Jesus, the very thought of Thee.md |  25 [32m++++[m
+ hymns/English/335-Nearer, my God, to Thee.md       |  38 [32m++++++[m
+ .../English/336-O come to my heart, Lord Jesus.md  |  39 [32m++++++[m
+ .../337-There is a fountain filled with blood.md   |  25 [32m++++[m
+ hymns/English/338-I hear Thy welcome voice.md      |  28 [32m++++[m
+ .../339-Come, let us to the Lord our God.md        |  23 [32m++++[m
+ ... is room!\342\200\235 The Lamb\342\200\231s.md" |  30 [32m+++++[m
+ hymns/English/341-Were you there.md                |  27 [32m++++[m
+ .../342-Great King of kings, why dost Thou.md      |  26 [32m++++[m
+ hymns/English/343-In that sweet by and by.md       |  24 [32m++++[m
+ .../344-All creatures of our God and King.md       |  39 [32m++++++[m
+ hymns/English/345-O the bitter shame and sorrow.md |  26 [32m++++[m
+ .../346-Sound His praises, tell the story.md       |  22 [32m+++[m
+ .../347-Heavenly Father, bless Thy children.md     |  21 [32m+++[m
+ hymns/English/348-Sound the battle-cry,.md         |  29 [32m++++[m
+ hymns/English/349-Up from the grave He arose.md    |  25 [32m++++[m
+ hymns/English/350-Ride on! ride on in majesty!.md  |  30 [32m+++++[m
+ .../English/351-A little child the Saviour came.md |  23 [32m++++[m
+ hymns/English/352-Look upon us, blessed Lord.md    |  20 [32m+++[m
+ ...yer is the soul\342\200\231s sincere desire.md" |  23 [32m++++[m
+ hymns/English/354-Far above in highest heaven.md   |  33 [32m+++++[m
+ hymns/English/355-Saviour, teach me, day by day.md |  24 [32m++++[m
+ hymns/English/356-We love the place, O God.md      |  23 [32m++++[m
+ hymns/English/357-O listen now to Him.md           |  34 [32m+++++[m
+ .../358-Come to the Saviour, make no delay.md      |  29 [32m++++[m
+ ...359-In Him I live, the Saviour who sought me.md |  23 [32m++++[m
+ .../English/360-Jesus, my Lord, my God, my All.md  |  21 [32m+++[m
+ hymns/English/361-Immortal, invisible.md           |  30 [32m+++++[m
+ .../362-On Christ, the Solid Rock, I stand.md      |  25 [32m++++[m
+ hymns/English/363-To the hills I lift mine eyes.md |  19 [32m+++[m
+ hymns/English/364-Holy Spirit, faithful Guide!.md  |  25 [32m++++[m
+ .../365-Face to face with Christ my Saviour.md     |  26 [32m++++[m
+ .../English/366-O listen to our wondrous story.md  |  23 [32m++++[m
+ hymns/English/367-Power in the blood.md            |  30 [32m+++++[m
+ hymns/English/368-Glory, glory, hallelujah!.md     |  19 [32m+++[m
+ ...9-There\342\200\231s a Stranger at the door.md" |  28 [32m++++[m
+ hymns/English/370-I surrender all.md               |  24 [32m++++[m
+ ...371-I can\342\200\231t feel at home anymore.md" |  41 [32m++++++[m
+ hymns/English/372-Amazing grace.md                 |  25 [32m++++[m
+ hymns/English/373-Full salvation.md                |  33 [32m+++++[m
+ .../English/374-Many are happy in Jesus tonight.md |  24 [32m++++[m
+ .../375-Bless, O Lord, our Land of Africa.md       |  17 [32m+++[m
+ .../English/376-O God bless our land of Malawi.md  |  28 [32m++++[m
+ ...7-From Greenland\342\200\231s icy mountains.md" |  35 [32m+++++[m
+ hymns/English/378-Rejoice, the Lord is King!.md    |  34 [32m+++++[m
+ hymns/English/379-Count your blessings.md          |  36 [32m+++++[m
+ hymns/English/380-A mighty fortress is our God.md  |  34 [32m+++++[m
+ hymns/English/381-For His mercies still endure.md  |  25 [32m++++[m
+ hymns/English/382-We thank Thee, Lord, indeed.md   |  18 [32m+++[m
+ .../383-Fill Thou my life, O Lord my God.md        |  22 [32m+++[m
+ .../English/384-Lord, strengthen Thou our faith.md |   8 [32m++[m
+ hymns/English/57-'Jesus!' Name of wondrous love.md |  23 [32m++++[m
+ hymns/English/58-More about Jesus would I know.md  |  22 [32m+++[m
+ hymns/English/59-One there is above all others.md  |  33 [32m+++++[m
+ .../60-Come, sing, my soul and praise the Lord.md  |  38 [32m++++++[m
+ .../English/61-Take the name of Jesus with you.md  |  25 [32m++++[m
+ hymns/English/62-With harps and with vials.md      |  28 [32m++++[m
+ ...l hail the power of Jesu\342\200\231s Name!.md" |  15 [32m+++[m
+ .../64-Come, Holy Ghost, our souls inspire.md      |  22 [32m+++[m
+ .../65-Spirit Divine, attend our prayers.md        |  27 [32m++++[m
+ .../English/66-Gracious Spirit, dwell with me!.md  |  33 [32m+++++[m
+ hymns/English/67-Breathe on me, Breath of God.md   |  19 [32m+++[m
+ hymns/English/68-Come, Holy Spirit, come.md        |  27 [32m++++[m
+ .../69-Our blest Redeemer, ere He breathed.md      |  29 [32m++++[m
+ .../70-Come, gracious Spirit, heavenly Dove.md     |  23 [32m++++[m
+ hymns/English/71-Creator Spirit! By whose aid.md   |  23 [32m++++[m
+ ...72-Thrice-blessed Spirit! Giver of salvation.md |  33 [32m+++++[m
+ hymns/English/73-Lord, Thy word abideth.md         |  27 [32m++++[m
+ .../74-Lamp of our feet, whereby we trace.md       |  22 [32m+++[m
+ hymns/English/75-Break Thou the Bread of Life.md   |  32 [32m+++++[m
+ hymns/English/76-Tell me the old, old story.md     |  33 [32m+++++[m
+ .../English/77-Art thou weary, art thou languid.md |  18 [32m+++[m
+ hymns/English/78-Why not today-.md                 |  27 [32m++++[m
+ hymns/English/79-Why not come to Jesus now-.md     |  24 [32m++++[m
+ hymns/English/80-What means this eager, anxious.md |  38 [32m++++++[m
+ ...81-There is life for a look at the Crucified.md |  29 [32m++++[m
+ hymns/English/82-The King of glory standeth.md     |  36 [32m+++++[m
+ .../English/83-The Great Physician now is near.md  |  23 [32m++++[m
+ hymns/English/84-The gospel of Thy grace.md        |  41 [32m++++++[m
+ hymns/English/85-Come! O come to Me!.md            |  32 [32m+++++[m
+ hymns/English/86-O be saved, His grace is free!.md |  12 [32m++[m
+ hymns/English/88-One there is who loves thee.md    |  27 [32m++++[m
+ hymns/English/89-Time is earnest, passing by.md    |  19 [32m+++[m
+ hymns/English/91-No room in the inn.md             |  25 [32m++++[m
+ hymns/English/92-Come unto Me, ye weary.md         |  18 [32m+++[m
+ hymns/English/93-Nothing either great or small.md  |  15 [32m+++[m
+ hymns/English/94-Room for Jesus, King of glory!.md |  21 [32m+++[m
+ hymns/English/95-Hark! there comes a whisper.md    |  24 [32m++++[m
+ .../97-O precious words that Jesus said!.md        |  12 [32m++[m
+ .../1-Mtu\305\265a, Mtu\305\265a, Mtu\305\265a.md" |  38 [32m++++++[m
+ hymns/tumbuka/10-Tumbikani Yehova, Aleluya.md      |  22 [32m+++[m
+ ...-Nkhasekereranga para \305\265akati, tirute.md" |  17 [32m+++[m
+ ...342\200\231wongenge Chiuta, Iyo ndi murunji.md" |  11 [32m++[m
+ "hymns/tumbuka/102-\305\264adada Chiuta.md"        |  18 [32m+++[m
+ hymns/tumbuka/103-Sono tiza pa ungano.md           |  16 [32m+++[m
+ ...-Tindinuskirenge maso ghane (ka\305\265iri).md" |  16 [32m+++[m
+ hymns/tumbuka/105-Mtaski ntha nkhujidapizga.md     |  11 [32m++[m
+ .../106-Fumu yiku\305\265alire yikutumbike.md"     |   9 [32m++[m
+ .../tumbuka/107-Sono tiyirumbe Fumu ya kuchanya.md |  22 [32m+++[m
+ .../108-Chiuta, tiza na vyawanangwa vyithu.md      |   7 [32m+[m
+ .../109-Imwe kale m\342\200\231kawuska Yesu.md"    |  15 [32m+++[m
+ hymns/tumbuka/11-Leza wa Abraham.md                |  35 [32m+++++[m
+ .../110-\305\264adada, mukhare nase na mise.md"    |  19 [32m+++[m
+ hymns/tumbuka/111-Yesu, mwimirire mukati mwithu.md |   9 [32m++[m
+ .../112-Mumuchindike Chiuta mutu\305\265a.md"      |  23 [32m++++[m
+ .../113-Charu chose ncha Chiuta na ivyo virimo.md  |  13 [32m++[m
+ hymns/tumbuka/114-Chiuta wamdengwende.md           |  27 [32m++++[m
+ .../115-Mazgu gha Chiuta ghakukhara nase.md        |  17 [32m+++[m
+ .../116-Timbe mazgu ghaweme \342\200\231gho.md"    |  23 [32m++++[m
+ .../117-Lizgu la Yehova withu ndiweme chomene.md   |  11 [32m++[m
+ .../118-Mazgu ghinu Fumu yane, nga nkhongono.md    |  15 [32m+++[m
+ .../tumbuka/119-Chiuta ise tiza kusambira muno.md  |  11 [32m++[m
+ .../12-Mwa \305\265anthu mose \305\265a pasi.md"   |  19 [32m+++[m
+ .../120-Mba mwa\305\265i awo \305\265akupulika.md" |  19 [32m+++[m
+ "hymns/tumbuka/121-Yesu mutila\305\265iske.md"     |  21 [32m+++[m
+ ...342\200\231Mwe Fumu yithu, Mwenecho wa tose.md" |  17 [32m+++[m
+ ...3-Ungafwanga lunkhu\305\265a \342\200\231we.md" |  27 [32m++++[m
+ ...24-Lizgani mbata. M\342\200\231rwani wafika.md" |  20 [32m+++[m
+ hymns/tumbuka/125-Yesu wakuchema tose ku.md        |  23 [32m++++[m
+ hymns/tumbuka/126-Nkhuzomera fumu yane.md          |  19 [32m+++[m
+ hymns/tumbuka/127-Na mtima wane wose.md            |  31 [32m+++++[m
+ hymns/tumbuka/128-Yesu ndalayizgana.md             |  42 [32m++++++[m
+ .../129-M\342\200\231jiphokweske, Wakhristu.md"    |  21 [32m+++[m
+ hymns/tumbuka/13-Maso nkhwinula kuchanya.md        |  19 [32m+++[m
+ .../130-Ku mulimo wa Fumu, tiri \305\265alimi!.md" |  22 [32m+++[m
+ "hymns/tumbuka/131-Wataska \305\265akufwa.md"      |  24 [32m++++[m
+ hymns/tumbuka/132-Yesu wakuchemerezga.md           |  34 [32m+++++[m
+ ...-A Fumu muwuske m\342\200\231limo winu wose.md" |  13 [32m++[m
+ ...m\342\200\231munda njinandi \342\200\231mwe.md" |  22 [32m+++[m
+ ... \305\265a vitima \305\265akwenera kusangwa.md" |  17 [32m+++[m
+ .../136-Ise tikuse\305\265a mbuto za lusungu.md"   |  18 [32m+++[m
+ ...7-\342\200\231Mwe nchemerezgo yikupulikikwa.md" |  21 [32m+++[m
+ .../138-\305\264akulalatira ku Makedoniya.md"      |  33 [32m+++++[m
+ ...139-Tapulika makani gha mtende \342\200\223.md" |  22 [32m+++[m
+ ...a\342\200\231kuru, \305\265a nkhongono zose.md" |  21 [32m+++[m
+ hymns/tumbuka/140-Chema chomene nga ndi lipenga.md |  17 [32m+++[m
+ .../141-Mkhristu warongore Yesu mu kendero.md      |  15 [32m+++[m
+ .../142-Wuka iwe, Mkhristu, kozga njasko yako.md   |  15 [32m+++[m
+ .../143-Fumu, masika ghacha pa dambo na phiri.md   |  15 [32m+++[m
+ .../144-Wonani, ndembera yikukhupukwa mchanya!.md  |  13 [32m++[m
+ ...145-Muchinthirani Yesu! Nkhondo za mphinjika.md |  19 [32m+++[m
+ ...ankhondo \305\265a mphinjika jitorerani uta.md" |  17 [32m+++[m
+ hymns/tumbuka/147-Njani wali kumo na Fumu Yesu-.md |  29 [32m++++[m
+ .../148-Khwima nganya! Reka kuwa, nanga wende.md   |  23 [32m++++[m
+ ...149-Yesu m\342\200\231tendeske makora ghene.md" |  19 [32m+++[m
+ hymns/tumbuka/15-Tigomezge kwa Chiuta.md           |  25 [32m++++[m
+ hymns/tumbuka/150-Chiuta ndi linga lithu.md        |  23 [32m++++[m
+ .../tumbuka/151-Chiuta ndi Nguru yane mu suzgo.md  |  21 [32m+++[m
+ hymns/tumbuka/152-Chiuta ndi linga.md              |  27 [32m++++[m
+ hymns/tumbuka/153-Chiuta withu ndi linga.md        |  38 [32m++++++[m
+ hymns/tumbuka/154-Yesu wakiza kamwana.md           |  27 [32m++++[m
+ ...-Muli kusangwa m\342\200\231nyumba iyo Fumu.md" |  19 [32m+++[m
+ hymns/tumbuka/156-Wonani Mliska wakwima.md         |  15 [32m+++[m
+ "hymns/tumbuka/157-\305\264adada mutumbikenge.md"  |  11 [32m++[m
+ .../158-\305\264adada, mu\305\265azomerezge.md"    |  23 [32m++++[m
+ hymns/tumbuka/159-Tiri papano pa Monesko.md        |  17 [32m+++[m
+ hymns/tumbuka/16-Chiuta wakuzizwiska.md            |  27 [32m++++[m
+ .../160-Usiku \342\200\231wo vimphindikwa.md"      |  27 [32m++++[m
+ ...ula\305\265iska mphinjika iyo wakatifwirapo.md" |  11 [32m++[m
+ hymns/tumbuka/162-Pano nkhumuwonani Fumu yane.md   |  31 [32m+++++[m
+ ...42\200\231ngakharanga kuko, (ka\305\265iri).md" |  13 [32m++[m
+ .../tumbuka/164-Yesu pa monesko \342\200\231wu.md" |  21 [32m+++[m
+ hymns/tumbuka/165-Tawomboleka na Khristu.md        |  23 [32m++++[m
+ .../166-Para nkhujipima ndiri wakwananga.md        |  18 [32m+++[m
+ hymns/tumbuka/167-Ndilije kwenera, Fumu.md         |  23 [32m++++[m
+ hymns/tumbuka/168-Tikumbuke Imwe Yesu.md           |  16 [32m+++[m
+ hymns/tumbuka/169-Zaninge mose tilire.md           |  11 [32m++[m
+ .../17-Chiuta mwenecho wa mtambo na pasi.md        |  15 [32m+++[m
+ hymns/tumbuka/170-Nkhusekera pa kupulika.md        |  21 [32m+++[m
+ .../171-Wakuchema, wakuchema vyaru vyose.md        |  21 [32m+++[m
+ ...wo \305\265akwananga, awo \305\265akwananga.md" |  23 [32m++++[m
+ "hymns/tumbuka/173-Zaninge, \305\265akusuzgika.md" |  23 [32m++++[m
+ .../174-Wanena ndi Yesu mazgu ghose agha.md        |  17 [32m+++[m
+ .../175-\342\200\231Mwe imwe vyalema, zani.md"     |  23 [32m++++[m
+ hymns/tumbuka/176-Wakutichema Yesu wenguwengu.md   |  23 [32m++++[m
+ hymns/tumbuka/177-Werera ku kaya.md                |  17 [32m+++[m
+ .../178-Zani kwa Yesu, wakm\342\200\231chemani.md" |  17 [32m+++[m
+ hymns/tumbuka/179-Palive nthowa yinyake.md         |  18 [32m+++[m
+ hymns/tumbuka/18-Ndimchindikenge Yehova.md         |  23 [32m++++[m
+ .../180-Pereka mtima m\342\200\231randa iwe.md"    |  23 [32m++++[m
+ .../181-Yesu wakiza mu charu, mu charu cha ku.md   |  15 [32m+++[m
+ hymns/tumbuka/182-Timute nayo uli Yesu.md          |  27 [32m++++[m
+ ...a wonani mwa \305\265anyane, mupulike mazgu.md" |  13 [32m++[m
+ hymns/tumbuka/184-Sono ndi nyengo yakuti.md        |  18 [32m+++[m
+ hymns/tumbuka/185-Uyu Yesu, uyu Yesu sono.md       |  13 [32m++[m
+ ...231We mayinga pulikiska, takwizira na mazgu.md" |  13 [32m++[m
+ .../187-Wakutayika iwe, umoyo wako nchichi-.md     |  17 [32m+++[m
+ hymns/tumbuka/188-Zanga iwe wakuzgewa kwa.md       |  27 [32m++++[m
+ ...e\305\265a wererera ku kaya ku\305\265awuso.md" |  13 [32m++[m
+ hymns/tumbuka/19-Timrumbenge Chiuta.md             |  27 [32m++++[m
+ .../tumbuka/190-Wakuzge\305\265a iwe, bendama.md"  |  27 [32m++++[m
+ hymns/tumbuka/191-Yesu wali kwiza; ujipulikire.md  |  16 [32m+++[m
+ hymns/tumbuka/192-Uyo wazomera, uyo wazomera.md    |  27 [32m++++[m
+ .../193-Tirutenge kwa Yesu, ndi Fumu ya lusungu.md |  11 [32m++[m
+ ...gani mbata \342\200\231mwe, yiri na uthenga.md" |  17 [32m+++[m
+ hymns/tumbuka/195-Wasesema ukuruta kasi.md         |  33 [32m+++++[m
+ hymns/tumbuka/196-Lero ndi nyengo yakuwukira.md    |  27 [32m++++[m
+ .../197-Ng\342\200\231anga yikuru ndi Yesu.md"     |  19 [32m+++[m
+ hymns/tumbuka/198-Kuli chipata cha mwazi.md        |  22 [32m+++[m
+ hymns/tumbuka/199-Yesu Mponoski wane wakiza.md     |  31 [32m+++++[m
+ ...a \305\265atu\305\265a \305\265atu\305\265a.md" |  26 [32m++++[m
+ .../20-Warumbike Chiuta withu Mlengi wa vyose.md   |  19 [32m+++[m
+ .../tumbuka/200-Fumu ndapulika mazgu ghakunozga.md |  17 [32m+++[m
+ ...uzgikanga zuwa lose m\342\200\231charu mono.md" |  15 [32m+++[m
+ ...02-Chiuta withu tikupulika, (ka\305\265iri).md" |  13 [32m++[m
+ .../tumbuka/203-Masozi ghalive kumanya kuchizga.md |  17 [32m+++[m
+ .../204-Pulikani mwa wanyane, Yesu wakutichema.md  |  11 [32m++[m
+ .../205-Fumu Yesu ndapulika nchemo yinu reka.md    |  15 [32m+++[m
+ .../206-Ine nda wakwananga nkhwiza kwa Imwe.md     |  13 [32m++[m
+ hymns/tumbuka/207-Muponoski wakuchema wose.md      |  13 [32m++[m
+ hymns/tumbuka/208-Mwasambira, mwapulika.md         |  23 [32m++++[m
+ hymns/tumbuka/209-Para zuwa lifinyi liza.md        |  19 [32m+++[m
+ hymns/tumbuka/21-Chindikani Chiuta.md              |  19 [32m+++[m
+ hymns/tumbuka/210-Kasi vyalema- Wavuka-.md         |  24 [32m++++[m
+ .../211-Themba la uchindami pa mtima uheni.md      |  23 [32m++++[m
+ .../tumbuka/212-\342\200\231Mwe Yesu mwimirira.md" |  26 [32m++++[m
+ .../tumbuka/213-Kale a Chiuta, mukatemwa charu,.md |  23 [32m++++[m
+ .../214-Zika\305\265amo mberere zinandi.md"        |  39 [32m++++++[m
+ hymns/tumbuka/215-Woko la Yehova.md                |  25 [32m++++[m
+ hymns/tumbuka/216-Kuli nthowa yakuwoneka nga.md    |  25 [32m++++[m
+ hymns/tumbuka/217-Ndapulika kuchema.md             |  19 [32m+++[m
+ hymns/tumbuka/218-Imwe mukutemwa Yesu.md           |  18 [32m+++[m
+ hymns/tumbuka/219-Israel welera.md                 |  22 [32m+++[m
+ ...towa kwa zina linu m\342\200\231charu chose.md" |  13 [32m++[m
+ hymns/tumbuka/220-Nchemerezgo ya lizgu.md          |  28 [32m++++[m
+ .../221-\305\264adada, mwa \305\265a kuchanya.md"  |  19 [32m+++[m
+ hymns/tumbuka/222-Yesu mwa mphanji yane.md         |  27 [32m++++[m
+ hymns/tumbuka/223-Yesu, mukunditemwa.md            |  34 [32m+++++[m
+ .../tumbuka/224-Ndaswa dango, Dada, dango linu.md  |  15 [32m+++[m
+ .../225-A Yesu mukuchema \305\265akuphyoka.md"     |  15 [32m+++[m
+ hymns/tumbuka/226-Ndananga, inya ndananga.md       |  18 [32m+++[m
+ hymns/tumbuka/227-Tina chifukwa tananga.md         |  23 [32m++++[m
+ hymns/tumbuka/228-A Yesu Muwomboli.md              |  33 [32m+++++[m
+ hymns/tumbuka/229-Mumo ndiriri wa waka.md          |  31 [32m+++++[m
+ hymns/tumbuka/23-Mtambo kuchanya na ivyo virimo.md |  15 [32m+++[m
+ hymns/tumbuka/230-Ine umoyo wane ndi Yesu.md       |  18 [32m+++[m
+ hymns/tumbuka/231-Yesu Fumu nkhwiza kwinu.md       |  19 [32m+++[m
+ ...232-Yesu Nkhum\342\200\231\305\265eyererani.md" |  23 [32m++++[m
+ hymns/tumbuka/233-Yesu ndimwe mphavu zithu.md      |  18 [32m+++[m
+ .../234-Yesu ukum\342\200\231manya- Phara.md"      |  31 [32m+++++[m
+ ...5-Nkhwenda m\342\200\231kudoka msumba Zioni.md" |  15 [32m+++[m
+ .../236-Yesu Fumu wajisaska ku\305\265a.md"        |  21 [32m+++[m
+ ...342\200\231vinkhwawo wuwo ndendenge na Yesu.md" |  19 [32m+++[m
+ .../238-Charu nchinonono, charu nchinonono.md      |  15 [32m+++[m
+ hymns/tumbuka/239-Nanga visuzgo vikulimbana.md     |  20 [32m+++[m
+ .../24-Lusungu Iwinu, Fumu \342\200\231mwe.md"     |  19 [32m+++[m
+ hymns/tumbuka/240-Mukati mu charu ichi.md          |  21 [32m+++[m
+ ...wakanjira m\342\200\231nyumba\342\200\231mo.md" |  21 [32m+++[m
+ .../242-A Yesu m\342\200\231kuti ndijipate.md"     |  20 [32m+++[m
+ hymns/tumbuka/243-Chiuta mukumanya kavviro.md      |  16 [32m+++[m
+ hymns/tumbuka/244-Tumbika Mzimu wane.md            |  26 [32m++++[m
+ hymns/tumbuka/245-Tiwonge Yehova withu.md          |  20 [32m+++[m
+ .../tumbuka/246-M\342\200\231mwimbire Chiuta.md"   |  23 [32m++++[m
+ hymns/tumbuka/247-Kutowa kwa mu charu.md           |  27 [32m++++[m
+ .../tumbuka/248-Nkhamupenja Yesu, wakandipulika.md |  10 [32m++[m
+ hymns/tumbuka/249-Ndimbenge vyakuzizwiska.md       |  26 [32m++++[m
+ hymns/tumbuka/25-Ndimchindikenge Chiuta.md         |  25 [32m++++[m
+ .../250-Fumu ya m\342\200\231chanya na pasi.md"    |  22 [32m+++[m
+ ...u m\342\200\231bwezi wane m\342\200\231weme.md" |  21 [32m+++[m
+ hymns/tumbuka/252-Yesu Mponoski ndaskuka uchizi.md |  15 [32m+++[m
+ ...muwongani, \305\264adada \305\265a kuchanya.md" |  15 [32m+++[m
+ "hymns/tumbuka/254-Mtima wane, \305\265anyane.md"  |  27 [32m++++[m
+ hymns/tumbuka/255-Mwimbe sumu za chimwemwe.md      |  23 [32m++++[m
+ .../256-Charu chose m\342\200\231zomere, na.md"    |  19 [32m+++[m
+ "hymns/tumbuka/257-Tegherezgani \305\265angelo.md" |  26 [32m++++[m
+ .../258-Chiuta chirongozgi \342\200\231mwe.md"     |  19 [32m+++[m
+ .../tumbuka/259-Ndikumtemwa, ndikumutemwa Yesu.md  |  18 [32m+++[m
+ .../tumbuka/26-Zaninge mwa \342\200\231nyithu.md"  |  31 [32m+++++[m
+ hymns/tumbuka/260-Duka, duka, moyo wane.md         |  25 [32m++++[m
+ hymns/tumbuka/261-Nda wakwananga ndapona.md        |  16 [32m+++[m
+ .../262-Lika\305\265a dazi la mwa\305\265i ilo.md" |  23 [32m++++[m
+ hymns/tumbuka/263-Nadi nkhumanya Yesu ngwane!.md   |  19 [32m+++[m
+ .../264-Kukweweka kulipo tichali pano pasi.md      |  15 [32m+++[m
+ hymns/tumbuka/265-Nkhusekerera Yesu Mponoski.md    |  19 [32m+++[m
+ ...\231Mwe mwimbirani Mwana-mberere pa Kalvari.md" |  11 [32m++[m
+ .../267-Uyu Yesu, uyu Yesu wiza mu mutima wane.md  |  12 [32m++[m
+ hymns/tumbuka/268-Pa ulendo wa nyifwa Mkhristu.md  |  27 [32m++++[m
+ .../269-Ku mphinjika ya Yesu ndiko nkhudemerera.md |  15 [32m+++[m
+ hymns/tumbuka/27-Chiyamwaka wakatemweska charu.md  |  13 [32m++[m
+ hymns/tumbuka/270-Kungweruka kwa mutende.md        |  19 [32m+++[m
+ ...endo m\342\200\231charu chino; nditirutenge.md" |  18 [32m+++[m
+ .../272-Mtende wa Leza uli nga ndi mronga.md       |  17 [32m+++[m
+ .../273-Mtende nga ndi mronga wandizingirizga.md   |  25 [32m++++[m
+ ...74-Mba mwa\305\265i \305\265akavu mu muzimu.md" |  30 [32m+++++[m
+ .../tumbuka/275-Yesu nane ngwane wandipukwa ine.md |  17 [32m+++[m
+ "hymns/tumbuka/276-Ngwa mwa\305\265i ukuru uyo.md" |  22 [32m+++[m
+ ...Mu na mtende- M\342\200\231charu cha uheni!.md" |  17 [32m+++[m
+ hymns/tumbuka/278-Nkhakharanga mu mudima.md        |  15 [32m+++[m
+ hymns/tumbuka/279-Nkhumanya.md                     |  25 [32m++++[m
+ .../28-Usiku utu\305\265a, charu chose chagona.md" |  13 [32m++[m
+ hymns/tumbuka/280-E Dada nkhuromba.md              |  20 [32m+++[m
+ hymns/tumbuka/281-Nga ndi Yayiro nkhumchemani.md   |  25 [32m++++[m
+ .../282-\342\200\231Mwe Yehova wa lusungu.md"      |  26 [32m++++[m
+ hymns/tumbuka/283-Mungarazganga nkhonyoro.md       |  23 [32m++++[m
+ ...Likunozga zu\305\265a la kumchindikira Yesu.md" |  17 [32m+++[m
+ ...a \342\200\231mwe! Kuromba \342\200\231mwe!.md" |  27 [32m++++[m
+ ...42\200\231ndipulike, mu\305\265e na lusungu.md" |  23 [32m++++[m
+ "hymns/tumbuka/287-Mundipulike \342\200\231mwe.md" |  30 [32m+++++[m
+ .../288-Chemerezga iwe wasuzgika na uheni wako.md  |  15 [32m+++[m
+ ...289-\305\264adada, \305\265adada, tiri pano.md" |  21 [32m+++[m
+ .../29-\305\264akagona \305\265aliska mu dambo.md" |  35 [32m+++++[m
+ hymns/tumbuka/290-Chikurukuru wakatemwa charu.md   |  17 [32m+++[m
+ hymns/tumbuka/291-Maso ghane nkhwinuskira.md       |  13 [32m++[m
+ hymns/tumbuka/292-Imwe Chiuta mukundimanya.md      |  21 [32m+++[m
+ .../293-M\342\200\231ndibise, Mponoski wane.md"    |  17 [32m+++[m
+ "hymns/tumbuka/294-Ndi\305\265e na mtima uweme.md" |  26 [32m++++[m
+ .../295-Nkhukhumbiska Imwe, Fumu ya uchizi.md      |  20 [32m+++[m
+ .../tumbuka/296-M\342\200\231kore kuwoko kwane.md" |  23 [32m++++[m
+ .../tumbuka/297-Khristu nkhumrombani, pulikani!.md |  19 [32m+++[m
+ hymns/tumbuka/298-Ndirute kufupi kwa Chiuta!.md    |  19 [32m+++[m
+ ...9-Kasi mwa \342\200\231mpingo Chiuta walimo.md" |  27 [32m++++[m
+ hymns/tumbuka/3-Tikumsopani Chiuta.md              |  23 [32m++++[m
+ .../30-\305\264aliska \305\265akakharanga.md"      |  17 [32m+++[m
+ ...342\200\231pulike, Yesu m\342\200\231pulike.md" |  19 [32m+++[m
+ hymns/tumbuka/301-Ndikozgane na Yesu.md            |  23 [32m++++[m
+ hymns/tumbuka/302-Umo mphala pakomirwa.md          |  27 [32m++++[m
+ hymns/tumbuka/303-Nkhugomezga Imwe.md              |  31 [32m+++++[m
+ hymns/tumbuka/304-Chiuta wane, Chiuta wane.md      |  23 [32m++++[m
+ hymns/tumbuka/305-Yesu tiri kutali.md              |  27 [32m++++[m
+ hymns/tumbuka/306-Mzimu wane, senderera ku.md      |  23 [32m++++[m
+ hymns/tumbuka/307-Imwe Yehova mwandipachira.md     |  24 [32m++++[m
+ ...342\200\231chizge \305\265anthu \305\265inu.md" |  19 [32m+++[m
+ .../tumbuka/309-Yesu m\342\200\231ndisungirire.md" |  22 [32m+++[m
+ "hymns/tumbuka/31-Waliska \305\265akakharanga.md"  |  31 [32m+++++[m
+ .../tumbuka/310-Yesu m\342\200\231tume Mzimu.md"   |  19 [32m+++[m
+ "hymns/tumbuka/311-Imwe m\342\200\231kugomezga.md" |  24 [32m++++[m
+ hymns/tumbuka/312-A Chiuta mu uchizi winu.md       |  24 [32m++++[m
+ .../313-\305\264a mwa\305\265i mbatu\305\265a.md"  |  17 [32m+++[m
+ ...\305\265a a\305\265o \305\265akazomera Fumu.md" |  35 [32m+++++[m
+ .../315-Tiyeni, \305\265aKhristu, tipote homwa.md" |  25 [32m++++[m
+ hymns/tumbuka/316-Woko la Yehova wuka.md           |  19 [32m+++[m
+ hymns/tumbuka/317-Tiri ndopa zimoza.md             |  26 [32m++++[m
+ .../318-Leza mazgu ghinu chisi chapulika.md        |  25 [32m++++[m
+ hymns/tumbuka/319-Yesu wizamkuvva Themba.md        |  29 [32m++++[m
+ hymns/tumbuka/32-Mwa vvakhristu kondwani.md        |  24 [32m++++[m
+ ...kunozga kuchanya nkhwakung\342\200\231azima.md" |  17 [32m+++[m
+ hymns/tumbuka/321-Nguru yane ndi Leza.md           |  18 [32m+++[m
+ .../322-M\342\200\231charu cha kuchanya.md"        |  23 [32m++++[m
+ hymns/tumbuka/323-Musumba wa kuchanya.md           |  35 [32m+++++[m
+ hymns/tumbuka/324-Kuli charu chiweme nadi.md       |  23 [32m++++[m
+ hymns/tumbuka/325-Pano tina chitima.md             |  25 [32m++++[m
+ hymns/tumbuka/326-Wakutemweka withu pumula.md      |  23 [32m++++[m
+ hymns/tumbuka/327-Ndikurutaso, ndikuruta.md        |  19 [32m+++[m
+ hymns/tumbuka/328-Kwafuma sono dazi.md             |  43 [32m++++++[m
+ ... kwa ku Imwe, \305\264adada (Ka\305\265iri).md" |  15 [32m+++[m
+ ...305\264anthu \305\265amahara \342\200\231wo.md" |  33 [32m+++++[m
+ hymns/tumbuka/330-Wakongana yumo-yumo.md           |  17 [32m+++[m
+ ...\305\264akuwombokwa \305\265a kuchanya kura.md" |  20 [32m+++[m
+ .../332-Rekani kusuzgika na vinthu vyapa charu.md  |  15 [32m+++[m
+ .../333-Tati tafiska mlimo na para tachekura.md    |  15 [32m+++[m
+ hymns/tumbuka/334-Para milimo yane yamara.md       |  19 [32m+++[m
+ ...5\265e m\342\200\231charu ichi ndiri mlendo.md" |  15 [32m+++[m
+ hymns/tumbuka/336-Ka tamkongana pa mronga.md       |  23 [32m++++[m
+ .../337-Ndi nyifwa chara \342\200\231mwe!.md"      |  11 [32m++[m
+ hymns/tumbuka/338-Ndi na Dada, ndi na Dada.md      |  22 [32m+++[m
+ hymns/tumbuka/339-A Chiuta mukalenga.md            |  19 [32m+++[m
+ hymns/tumbuka/34-Nkhusangwa na mise yino.md        |  24 [32m++++[m
+ .../tumbuka/340-Mazgu agho Chiuta wakanena kale.md |  15 [32m+++[m
+ hymns/tumbuka/341-Kutemwa kwakuruska mapimiko.md   |  15 [32m+++[m
+ ...-Yesu mwa \342\200\231kuchanya, vwirani ise.md" |  27 [32m++++[m
+ .../343-Zaninge mwa \342\200\231kuwonga.md"        |  27 [32m++++[m
+ .../344-Tikumijapo mbuto yiweme pa charu.md        |  17 [32m+++[m
+ hymns/tumbuka/345-Zani tirumbenge Fumu.md          |  31 [32m+++++[m
+ hymns/tumbuka/346-Timwimbire Chiuta sumu.md        |  17 [32m+++[m
+ .../347-Timchindike, timchindike Yehova withu.md   |  22 [32m+++[m
+ ...iuta wali m\342\200\231nyumba yitu\305\265a.md" |  22 [32m+++[m
+ hymns/tumbuka/349-Yinuskani mitu yinu.md           |  19 [32m+++[m
+ "hymns/tumbuka/35-Ha! pulikani \305\265angelo.md"  |  27 [32m++++[m
+ .../tumbuka/350-Tumbikani mwa \305\265a pasi.md"   |  22 [32m+++[m
+ hymns/tumbuka/351-Nako nkhutowa pa mapiri.md       |  22 [32m+++[m
+ hymns/tumbuka/352-Fumu yikutumbike.md              |  22 [32m+++[m
+ hymns/tumbuka/353-Sono kwa Mponoski withu.md       |  22 [32m+++[m
+ hymns/tumbuka/354-Mazgu taghapulika.md             |  23 [32m++++[m
+ hymns/tumbuka/355-A Yesu mutitumbike.md            |  28 [32m++++[m
+ .../356-Dazi la Mzimu, Mtaski \342\200\230mwe!.md" |  27 [32m++++[m
+ ...7-M\342\200\231kharenge nane, Fumu, kwafipa.md" |  23 [32m++++[m
+ hymns/tumbuka/358-A Yesu Fumu lathezuka.md         |  22 [32m+++[m
+ .../359-Fumu m\342\200\231tipatuske wengu.md"      |  15 [32m+++[m
+ hymns/tumbuka/36-Mwana wababika wa mbiri yikuru.md |  13 [32m++[m
+ hymns/tumbuka/360-Uchizgi wa Muponoski.md          |  11 [32m++[m
+ hymns/tumbuka/361-Dazi likunjira kukufipa.md       |  21 [32m+++[m
+ ...62-\305\264ada mutumbike mulimo uwo tachita.md" |  15 [32m+++[m
+ hymns/tumbuka/363-Fumu, tumbikani Africa.md        |  16 [32m+++[m
+ .../tumbuka/364-Chiuta mtumbike Mala\305\265i.md"  |  27 [32m++++[m
+ .../365-Chiuta, Mlengi wa Nyanja na mtunda.md      |  17 [32m+++[m
+ .../366-Yesu waka\305\265a mjedu mu Betelehem.md"  |  15 [32m+++[m
+ ...-Pamoza na ng\342\200\231ombe wakagona Yesu.md" |  15 [32m+++[m
+ ...ru \305\265akumusopa na mahara gha\305\265o.md" |  15 [32m+++[m
+ hymns/tumbuka/369-Mu uryero Mwana wa Mariya.md     |  15 [32m+++[m
+ "hymns/tumbuka/37-Ndimwe \305\265a Chiuta.md"      |  17 [32m+++[m
+ hymns/tumbuka/370-Kana kakiza pasi pano.md         |  40 [32m++++++[m
+ .../371-Yesu wakunditemwa; mazgu ghandiphalira.md  |  11 [32m++[m
+ hymns/tumbuka/372-Sono ndawuka mu tulo.md          |  14 [32m++[m
+ hymns/tumbuka/373-Mwimbe mwimbe.md                 |  15 [32m+++[m
+ hymns/tumbuka/374-Imwe mlengi wa vyose.md          |  15 [32m+++[m
+ hymns/tumbuka/375-Wona kuchanya nkhuweme.md        |  15 [32m+++[m
+ hymns/tumbuka/376-Mukutipa ise dazi.md             |  27 [32m++++[m
+ .../377-Chiuta wakulawiska tuyuni twa mdera.md     |  11 [32m++[m
+ .../378-Kayuni kachoko kakwimba zinyimbo.md        |   9 [32m++[m
+ .../379-Ndap\342\200\231lika kayuni nyimbo.md"     |  10 [32m++[m
+ .../38-Kamphomo mkati mwa \305\265angelo.md"       |  28 [32m++++[m
+ hymns/tumbuka/380-Ka iwe ukumanya.md               |  23 [32m++++[m
+ .../381-Wona tuyuni tose tukwimba mu makuni.md     |  15 [32m+++[m
+ hymns/tumbuka/382-Ka Chiuta wakupulikira.md        |  15 [32m+++[m
+ hymns/tumbuka/383-A Yesu, mukukhara.md             |  31 [32m+++++[m
+ hymns/tumbuka/384-Mponoski, nga ndi muliska.md     |  27 [32m++++[m
+ .../385-Mwa \305\265ana \305\265akuchanya.md"      |  27 [32m++++[m
+ hymns/tumbuka/386-Yesu wa kuchanya mutipulike.md   |  13 [32m++[m
+ hymns/tumbuka/387-Nkhukondwa kuti Chiuta, Dada.md  |  23 [32m++++[m
+ ...88-\305\264anyina na twana wakamwizira Yesu.md" |  19 [32m+++[m
+ .../tumbuka/389-Yesu wakuti ti\305\265are tose.md" |  15 [32m+++[m
+ .../39-La\305\265iskani m\342\200\231lukutu.md"    |  31 [32m+++++[m
+ .../390-Yesu wali nane Zu\305\265a lose swi.md"    |   9 [32m++[m
+ ... wa kuchanya, ise ta\305\265ana \305\265inu.md" |  11 [32m++[m
+ ...92-Yesu, Mliska wa lusungu, mundipulike sono.md |  11 [32m++[m
+ hymns/tumbuka/393-Mzimu mupulike.md                |  15 [32m+++[m
+ hymns/tumbuka/394-Dada withu wakulinda ise.md      |  15 [32m+++[m
+ hymns/tumbuka/395-Fumu yane nkhuzomera.md          |  23 [32m++++[m
+ .../396-Chiriko chikaya chiweme kuchanya.md        |  15 [32m+++[m
+ ...aru nchakucha \342\200\231cho, cha kuchanya.md" |  18 [32m+++[m
+ ...98-Mawoko ghate\305\265etere uli Fumu Yesu-.md" |  19 [32m+++[m
+ hymns/tumbuka/399-Para wayamkuweraso.md            |  17 [32m+++[m
+ hymns/tumbuka/4-Mzimu wane, chindikanga.md         |  33 [32m+++++[m
+ ...humphu yinu m\342\200\231kareka na chizumbe.md" |  32 [32m+++++[m
+ "hymns/tumbuka/400-Mwa \305\265ana imbani.md"      |  27 [32m++++[m
+ hymns/tumbuka/401-Mwimbire Yesu, mwa twana.md      |  27 [32m++++[m
+ hymns/tumbuka/402-Zaninge A Mzimu.md               |  17 [32m+++[m
+ hymns/tumbuka/403-Wizengeso Fumu.md                |  30 [32m+++++[m
+ hymns/tumbuka/404-Ulinda wa Chikhristu.md          |  36 [32m+++++[m
+ hymns/tumbuka/405-Ndine Muliska Muweme.md          |  26 [32m++++[m
+ hymns/tumbuka/406-Zaninge Mose.md                  |  29 [32m++++[m
+ hymns/tumbuka/407-Pakwenda na Yesu.md              |  28 [32m++++[m
+ hymns/tumbuka/408-Kale Pa Kalivari.md              |  26 [32m++++[m
+ hymns/tumbuka/409-Fumu Yane.md                     |  23 [32m++++[m
+ hymns/tumbuka/41-Sekererani! Muwomboli wiza.md     |  17 [32m+++[m
+ hymns/tumbuka/410-Mwe A Fumu.md                    |  31 [32m+++++[m
+ hymns/tumbuka/411-Uchizi.md                        |  19 [32m+++[m
+ hymns/tumbuka/412-Nkhujipereka.md                  |  23 [32m++++[m
+ hymns/tumbuka/413-Iwe Tiphalirapo.md               |  29 [32m++++[m
+ hymns/tumbuka/414-Pakulira Zimbata.md              |  33 [32m+++++[m
+ .../415-Ndimwe Yesu Nkhoswe Ya \305\264anthu.md"   |  19 [32m+++[m
+ hymns/tumbuka/416-Pakuryapo Chingwa.md             |  34 [32m+++++[m
+ "hymns/tumbuka/417-M\342\200\231ngandiruwanga.md"  |  24 [32m++++[m
+ hymns/tumbuka/418-Kasi Ukukhumba Chiponosko.md     |  24 [32m++++[m
+ hymns/tumbuka/419-Vyose Vikumara.md                |  30 [32m+++++[m
+ ... mu lukutu \305\265aliska \305\265akumsopa-.md" |  15 [32m+++[m
+ hymns/tumbuka/420-Ka Mwaruta Kwa Yesu.md           |  26 [32m++++[m
+ "hymns/tumbuka/421-Ng\342\200\231anga yikulu.md"   |  26 [32m++++[m
+ hymns/tumbuka/422-Nkhutemwa Kupulikira.md          |  34 [32m+++++[m
+ hymns/tumbuka/423-Nako Nkhunozga.md                |  30 [32m+++++[m
+ hymns/tumbuka/424-Charu Nkhwithu Chara.md          |  36 [32m+++++[m
+ hymns/tumbuka/425-Rombanga.md                      |  24 [32m++++[m
+ "hymns/tumbuka/426-Te\305\265eta Na Lwana Lose.md" |  40 [32m++++++[m
+ hymns/tumbuka/427-Kuli Chikaya Cha Vyose.md        |  25 [32m++++[m
+ "hymns/tumbuka/428-Kuli Chikaya Chitu\305\265a.md" |  26 [32m++++[m
+ hymns/tumbuka/429-Fumu Yikusungilirenge.md         |  25 [32m++++[m
+ ...\265a utesi kupangana kum\342\200\231payika.md" |  18 [32m+++[m
+ hymns/tumbuka/430-A Yehova Vwirani.md              |  35 [32m+++++[m
+ hymns/tumbuka/431-Ine Ndananga Dada.md             |  23 [32m++++[m
+ hymns/tumbuka/432-Nkhumuchindikani.md              |  30 [32m+++++[m
+ hymns/tumbuka/433-Nkhuromba Mponoski.md            |  22 [32m+++[m
+ hymns/tumbuka/434-Chiuta Dada.md                   |  26 [32m++++[m
+ hymns/tumbuka/435-Fumu Ndi Muliska.md              |  30 [32m+++++[m
+ hymns/tumbuka/436-Mazgu Ghinu Fumu.md              |  21 [32m+++[m
+ hymns/tumbuka/437-Penjaninge Yehova.md             |  25 [32m++++[m
+ "hymns/tumbuka/438-Tikuwonga \305\264a Chiuta.md"  |  25 [32m++++[m
+ hymns/tumbuka/439-Munthu Watiwasidenge.md          |  27 [32m++++[m
+ .../44-Kuli kapiri kutali, ku muzi kuwaro.md       |  13 [32m++[m
+ hymns/tumbuka/440-Fumu Yakutemwa Yikuchema.md      |  36 [32m+++++[m
+ "hymns/tumbuka/441-Chizi\305\265a Cha Zura.md"     |  30 [32m+++++[m
+ .../442-Mbanjani \305\264avwara Vitu\305\265a.md"  |  42 [32m++++++[m
+ "hymns/tumbuka/443-\305\264akamkhomera Yesu.md"    |  29 [32m++++[m
+ hymns/tumbuka/444-Zaninge A Fumu.md                |  34 [32m+++++[m
+ hymns/tumbuka/445-Pamphinjika Mthaski Wakafwa.md   |  36 [32m+++++[m
+ "hymns/tumbuka/446-Ku\305\265amkhristu.md"         |  28 [32m++++[m
+ hymns/tumbuka/447-Murongozgi Wa Ulendo Wa Moyo.md  |  29 [32m++++[m
+ hymns/tumbuka/448-Nakukondwa Timrumbe.md           |  23 [32m++++[m
+ hymns/tumbuka/449-Vitumbiko Virimo.md              |  30 [32m+++++[m
+ .../45-Munthu wa chitima, \342\200\231mwe!.md"     |  23 [32m++++[m
+ ...50-Mwa \305\264anthu Mose Tiwongenge Chiuta.md" |  31 [32m+++++[m
+ hymns/tumbuka/451-Ndopa Za Yesu.md                 |  24 [32m++++[m
+ hymns/tumbuka/452-Tiri Pa Ulendo.md                |  45 [32m+++++++[m
+ hymns/tumbuka/453-Ise Tikupenja Imwe.md            |  30 [32m+++++[m
+ "hymns/tumbuka/454-La\305\265iska Pa Mphinjika.md" |  37 [32m++++++[m
+ hymns/tumbuka/455-Imwe Mose Mwasuzgika.md          |  28 [32m++++[m
+ hymns/tumbuka/456-Nchichi Chingatozga Ine.md       |  24 [32m++++[m
+ hymns/tumbuka/457-Yeghani Mphinjika.md             |  23 [32m++++[m
+ hymns/tumbuka/458-Mzomerani.md                     |  42 [32m++++++[m
+ hymns/tumbuka/459-Tikamtemwa.md                    |  29 [32m++++[m
+ hymns/tumbuka/46-Hena, Mwana wa Mberere.md         |  13 [32m++[m
+ .../460-Dada Ndine Mwana Winu Wakuzge\305\265a.md" |  30 [32m+++++[m
+ hymns/tumbuka/461-Kulive Nthowa.md                 | 147 [32m+++++++++++++++++++++[m
+ .../47-Para pa champhinjika Yesu wakafwa.md        |  19 [32m+++[m
+ hymns/tumbuka/48-Mponoski wane warongozgeka.md     |  17 [32m+++[m
+ ...342\200\231Mwe mwapulika kuti Yesu wazguka-.md" |  19 [32m+++[m
+ ...kuli \305\265anthu \305\265imbe Leza Themba.md" |  11 [32m++[m
+ hymns/tumbuka/50-Yesu Mtaski wane wakapumula.md    |  11 [32m++[m
+ .../tumbuka/51-Mwa \305\265ana, tichindikenge.md"  |  27 [32m++++[m
+ hymns/tumbuka/52-Yamara nkhondo ya nyifwa.md       |  23 [32m++++[m
+ .../53-Yamara nkhondo ya nyifwa \342\200\223.md"   |  19 [32m+++[m
+ .../54-Yesu wana umoyo! Nyifwa yingandofya.md      |  13 [32m++[m
+ .../55-Haleluya, \342\200\231mwe wazguka.md"       |  21 [32m+++[m
+ hymns/tumbuka/56-Uyo kale wakavwara mphumphu.md    |  26 [32m++++[m
+ hymns/tumbuka/57-Mukwiza, Mponoski wane.md         |  29 [32m++++[m
+ hymns/tumbuka/58-Mwize Imwe Immanuel.md            |  25 [32m++++[m
+ hymns/tumbuka/59-Mponoski wati wizenge pa bingu.md |  27 [32m++++[m
+ .../6-\305\264anthu \305\265ose pasi pano.md"      |  16 [32m+++[m
+ ...ndiyo Themba; mumlambirenge \342\200\231mwe.md" |  23 [32m++++[m
+ "hymns/tumbuka/61-Nga ndi\305\265e na malulimi.md" |  31 [32m+++++[m
+ hymns/tumbuka/62-Nyengo yi wemi yikwiza.md         |  28 [32m++++[m
+ .../tumbuka/63-\305\264anandi \305\265akumpata.md" |  33 [32m+++++[m
+ hymns/tumbuka/64-Vilengiwa virekenge.md            |  27 [32m++++[m
+ .../65-M\342\200\231bwezi muweme ndi Yesu,.md"     |  27 [32m++++[m
+ hymns/tumbuka/66-Yesu Mngweruski wa charu.md       |  19 [32m+++[m
+ hymns/tumbuka/67-Nako nkhunozga kwa zina.md        |  27 [32m++++[m
+ hymns/tumbuka/68-Zani timbire Yesu Mponoski.md     |  13 [32m++[m
+ hymns/tumbuka/69-Wukani, imbani na mutima wose.md  |  11 [32m++[m
+ hymns/tumbuka/7-Fumu ndi muliska wane.md           |  27 [32m++++[m
+ hymns/tumbuka/70-Yesu, Chiuta na Fumu.md           |  21 [32m+++[m
+ hymns/tumbuka/71-Mphalive mubwezi nga ndi Yesu.md  |  19 [32m+++[m
+ hymns/tumbuka/72-Yesu, chimwemwe cha mtima.md      |  23 [32m++++[m
+ .../73-Nako nkhunozga, A Yesu, kukumbuka Imwe.md   |  13 [32m++[m
+ hymns/tumbuka/74-Yesu ntha ndamuwonani.md          |  23 [32m++++[m
+ hymns/tumbuka/75-Pulika, mtima wane!.md            |  27 [32m++++[m
+ .../76-Muchindikani Yesu. Mtu\305\265a!.md"        |  10 [32m++[m
+ hymns/tumbuka/77-Chiuta wali kumancha.md           |  35 [32m+++++[m
+ ...200\231Mwe Mzimu Mtu\305\265a, Mzimu Chiuta.md" |  32 [32m+++++[m
+ .../79-Mwomboli withu wandafwe, wakatilayizga.md   |  17 [32m+++[m
+ hymns/tumbuka/8-Chiuta mbukharo withu.md           |  27 [32m++++[m
+ hymns/tumbuka/80-Imwe Mzimu wa Chiuta.md           |  23 [32m++++[m
+ hymns/tumbuka/81-Tandazgani mazgu.md               |  34 [32m+++++[m
+ .../tumbuka/82-Mzimu mwa \342\200\231kurumbika.md" |  30 [32m+++++[m
+ .../83-Mwize A Mzimu Mutu\305\265a, mwize.md"      |  19 [32m+++[m
+ .../84-Layizgo la Chiuta likafiskika para.md       |  17 [32m+++[m
+ .../85-Muzimu mutu\305\265a, mutovwirenge.md"      |  14 [32m++[m
+ hymns/tumbuka/86-Yesu, Yesu, Fumu yane.md          |  15 [32m+++[m
+ .../87-Mwati wa Ekleziya ndi Yesu Mponoski.md      |  23 [32m++++[m
+ .../88-Chiuta wa wasekuru, jalawe lakukhora.md     |  19 [32m+++[m
+ ...lendo pano pasi, ta \305\265aranda mu charu.md" |  13 [32m++[m
+ hymns/tumbuka/9-Ine nkhumchindika ruta.md          |  27 [32m++++[m
+ hymns/tumbuka/90-Chiuta withu, Fumu ya umoyo.md    |  19 [32m+++[m
+ .../91-Ndimwe Chiuta, mwene - nkhongono!.md        |   9 [32m++[m
+ .../92-Kuli chisopo chenecho Chiuta ntha.md        |  13 [32m++[m
+ .../93-\305\264a mwa\305\265i mba nyumba yinu.md"  |  24 [32m++++[m
+ ...ikutemwa malo gha \342\200\231chindami winu.md" |  13 [32m++[m
+ ...42\200\231titumbike, mu\305\265e na lusungu.md" |  15 [32m+++[m
+ .../96-Dada mwatisungira ku Sabata linyake.md      |  18 [32m+++[m
+ hymns/tumbuka/97-Dada withu, tiza panthazi pinu.md |  19 [32m+++[m
+ "hymns/tumbuka/98-\305\264adada tiri pano sono.md" |  19 [32m+++[m
+ hymns/tumbuka/99-Sono tanjiramo muno.md            |  31 [32m+++++[m
+ 1284 files changed, 30368 insertions(+)
